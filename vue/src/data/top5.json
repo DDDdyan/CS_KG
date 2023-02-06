@@ -1,0 +1,338 @@
+﻿[
+{
+  "p": {
+    "start": {
+      "identity": 526,
+      "labels": [
+        "subject"
+      ],
+      "properties": {
+        "name": "编译原理"
+      }
+    },
+    "end": {
+      "identity": 410,
+      "labels": [
+        "chapter"
+      ],
+      "properties": {
+        "name": "高级构件",
+        "state": "6"
+      }
+    },
+    "segments": [
+      {
+        "start": {
+          "identity": 526,
+          "labels": [
+            "subject"
+          ],
+          "properties": {
+            "name": "编译原理"
+          }
+        },
+        "relationship": {
+          "identity": 330,
+          "start": 526,
+          "end": 410,
+          "type": "contain",
+          "properties": {
+
+          }
+        },
+        "end": {
+          "identity": 410,
+          "labels": [
+            "chapter"
+          ],
+          "properties": {
+            "name": "高级构件",
+            "state": "6"
+          }
+        }
+      }
+    ],
+    "length": 1.0
+  }
+},
+{
+"p": {
+"start": {
+"identity": 526,
+"labels": [
+"subject"
+],
+"properties": {
+"name": "编译原理"
+}
+},
+"end": {
+"identity": 409,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "静态分析",
+"state": "5"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 526,
+"labels": [
+"subject"
+],
+"properties": {
+"name": "编译原理"
+}
+},
+"relationship": {
+"identity": 78,
+"start": 526,
+"end": 409,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 409,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "静态分析",
+"state": "5"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 526,
+"labels": [
+"subject"
+],
+"properties": {
+"name": "编译原理"
+}
+},
+"end": {
+"identity": 408,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "运行时",
+"state": "4"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 526,
+"labels": [
+"subject"
+],
+"properties": {
+"name": "编译原理"
+}
+},
+"relationship": {
+"identity": 77,
+"start": 526,
+"end": 408,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 408,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "运行时",
+"state": "4"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 526,
+"labels": [
+"subject"
+],
+"properties": {
+"name": "编译原理"
+}
+},
+"end": {
+"identity": 407,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "代码生成",
+"state": "3"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 526,
+"labels": [
+"subject"
+],
+"properties": {
+"name": "编译原理"
+}
+},
+"relationship": {
+"identity": 329,
+"start": 526,
+"end": 407,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 407,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "代码生成",
+"state": "3"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 526,
+"labels": [
+"subject"
+],
+"properties": {
+"name": "编译原理"
+}
+},
+"end": {
+"identity": 406,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "语义分析",
+"state": "2"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 526,
+"labels": [
+"subject"
+],
+"properties": {
+"name": "编译原理"
+}
+},
+"relationship": {
+"identity": 328,
+"start": 526,
+"end": 406,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 406,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "语义分析",
+"state": "2"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 526,
+"labels": [
+"subject"
+],
+"properties": {
+"name": "编译原理"
+}
+},
+"end": {
+"identity": 405,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "语法分析",
+"state": "1"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 526,
+"labels": [
+"subject"
+],
+"properties": {
+"name": "编译原理"
+}
+},
+"relationship": {
+"identity": 327,
+"start": 526,
+"end": 405,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 405,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "语法分析",
+"state": "1"
+}
+}
+}
+],
+"length": 1.0
+}
+}
+]

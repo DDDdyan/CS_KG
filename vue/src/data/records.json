@@ -1,0 +1,6056 @@
+[
+  {
+    "p": {
+      "start": {
+        "identity": 304,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "Memory Safety Issues",
+          "state": "1.4"
+        }
+      },
+      "end": {
+        "identity": 225,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "Types of bugs",
+          "state": "1.5"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 304,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "Memory Safety Issues",
+              "state": "1.4"
+            }
+          },
+          "relationship": {
+            "identity": 186,
+            "start": 304,
+            "end": 225,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 225,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "Types of bugs",
+              "state": "1.5"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 225,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "Types of bugs",
+          "state": "1.5"
+        }
+      },
+      "end": {
+        "identity": 226,
+        "labels": [
+          "chapter"
+        ],
+        "properties": {
+          "name": "Buffer Overflow",
+          "state": "No.1+1.6"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 225,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "Types of bugs",
+              "state": "1.5"
+            }
+          },
+          "relationship": {
+            "identity": 192,
+            "start": 225,
+            "end": 226,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 226,
+            "labels": [
+              "chapter"
+            ],
+            "properties": {
+              "name": "Buffer Overflow",
+              "state": "No.1+1.6"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 224,
+        "labels": [
+          "subject"
+        ],
+        "properties": {
+          "name": "Memory Safety and Programming Language Design"
+        }
+      },
+      "end": {
+        "identity": 226,
+        "labels": [
+          "chapter"
+        ],
+        "properties": {
+          "name": "Buffer Overflow",
+          "state": "No.1+1.6"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 224,
+            "labels": [
+              "subject"
+            ],
+            "properties": {
+              "name": "Memory Safety and Programming Language Design"
+            }
+          },
+          "relationship": {
+            "identity": 170,
+            "start": 224,
+            "end": 226,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 226,
+            "labels": [
+              "chapter"
+            ],
+            "properties": {
+              "name": "Buffer Overflow",
+              "state": "No.1+1.6"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 224,
+        "labels": [
+          "subject"
+        ],
+        "properties": {
+          "name": "Memory Safety and Programming Language Design"
+        }
+      },
+      "end": {
+        "identity": 227,
+        "labels": [
+          "chapter"
+        ],
+        "properties": {
+          "name": "Memory Exhaustion",
+          "state": "No.4"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 224,
+            "labels": [
+              "subject"
+            ],
+            "properties": {
+              "name": "Memory Safety and Programming Language Design"
+            }
+          },
+          "relationship": {
+            "identity": 171,
+            "start": 224,
+            "end": 227,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 227,
+            "labels": [
+              "chapter"
+            ],
+            "properties": {
+              "name": "Memory Exhaustion",
+              "state": "No.4"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 224,
+        "labels": [
+          "subject"
+        ],
+        "properties": {
+          "name": "Memory Safety and Programming Language Design"
+        }
+      },
+      "end": {
+        "identity": 228,
+        "labels": [
+          "chapter"
+        ],
+        "properties": {
+          "name": "Concurrent Memory Access",
+          "state": "No.5"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 224,
+            "labels": [
+              "subject"
+            ],
+            "properties": {
+              "name": "Memory Safety and Programming Language Design"
+            }
+          },
+          "relationship": {
+            "identity": 189,
+            "start": 224,
+            "end": 228,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 228,
+            "labels": [
+              "chapter"
+            ],
+            "properties": {
+              "name": "Concurrent Memory Access",
+              "state": "No.5"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 224,
+        "labels": [
+          "subject"
+        ],
+        "properties": {
+          "name": "Memory Safety and Programming Language Design"
+        }
+      },
+      "end": {
+        "identity": 229,
+        "labels": [
+          "chapter"
+        ],
+        "properties": {
+          "name": "Rust Concurrency Programming",
+          "state": "No.8"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 224,
+            "labels": [
+              "subject"
+            ],
+            "properties": {
+              "name": "Memory Safety and Programming Language Design"
+            }
+          },
+          "relationship": {
+            "identity": 190,
+            "start": 224,
+            "end": 229,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 229,
+            "labels": [
+              "chapter"
+            ],
+            "properties": {
+              "name": "Rust Concurrency Programming",
+              "state": "No.8"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 224,
+        "labels": [
+          "subject"
+        ],
+        "properties": {
+          "name": "Memory Safety and Programming Language Design"
+        }
+      },
+      "end": {
+        "identity": 230,
+        "labels": [
+          "chapter"
+        ],
+        "properties": {
+          "name": "Rust Compiler Theory",
+          "state": "No.9"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 224,
+            "labels": [
+              "subject"
+            ],
+            "properties": {
+              "name": "Memory Safety and Programming Language Design"
+            }
+          },
+          "relationship": {
+            "identity": 191,
+            "start": 224,
+            "end": 230,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 230,
+            "labels": [
+              "chapter"
+            ],
+            "properties": {
+              "name": "Rust Compiler Theory",
+              "state": "No.9"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 224,
+        "labels": [
+          "subject"
+        ],
+        "properties": {
+          "name": "Memory Safety and Programming Language Design"
+        }
+      },
+      "end": {
+        "identity": 231,
+        "labels": [
+          "chapter"
+        ],
+        "properties": {
+          "name": "Rust Compiler Techniques",
+          "state": "No.10"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 224,
+            "labels": [
+              "subject"
+            ],
+            "properties": {
+              "name": "Memory Safety and Programming Language Design"
+            }
+          },
+          "relationship": {
+            "identity": 176,
+            "start": 224,
+            "end": 231,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 231,
+            "labels": [
+              "chapter"
+            ],
+            "properties": {
+              "name": "Rust Compiler Techniques",
+              "state": "No.10"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 224,
+        "labels": [
+          "subject"
+        ],
+        "properties": {
+          "name": "Memory Safety and Programming Language Design"
+        }
+      },
+      "end": {
+        "identity": 232,
+        "labels": [
+          "chapter"
+        ],
+        "properties": {
+          "name": "Testing and Fuzzing",
+          "state": "No.12"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 224,
+            "labels": [
+              "subject"
+            ],
+            "properties": {
+              "name": "Memory Safety and Programming Language Design"
+            }
+          },
+          "relationship": {
+            "identity": 152,
+            "start": 224,
+            "end": 232,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 232,
+            "labels": [
+              "chapter"
+            ],
+            "properties": {
+              "name": "Testing and Fuzzing",
+              "state": "No.12"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 224,
+        "labels": [
+          "subject"
+        ],
+        "properties": {
+          "name": "Memory Safety and Programming Language Design"
+        }
+      },
+      "end": {
+        "identity": 233,
+        "labels": [
+          "chapter"
+        ],
+        "properties": {
+          "name": "Address Sanitizer",
+          "state": "No.13"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 224,
+            "labels": [
+              "subject"
+            ],
+            "properties": {
+              "name": "Memory Safety and Programming Language Design"
+            }
+          },
+          "relationship": {
+            "identity": 177,
+            "start": 224,
+            "end": 233,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 233,
+            "labels": [
+              "chapter"
+            ],
+            "properties": {
+              "name": "Address Sanitizer",
+              "state": "No.13"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 224,
+        "labels": [
+          "subject"
+        ],
+        "properties": {
+          "name": "Memory Safety and Programming Language Design"
+        }
+      },
+      "end": {
+        "identity": 234,
+        "labels": [
+          "chapter"
+        ],
+        "properties": {
+          "name": "Isolation of Unsafe Code",
+          "state": "No.16"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 224,
+            "labels": [
+              "subject"
+            ],
+            "properties": {
+              "name": "Memory Safety and Programming Language Design"
+            }
+          },
+          "relationship": {
+            "identity": 179,
+            "start": 224,
+            "end": 234,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 234,
+            "labels": [
+              "chapter"
+            ],
+            "properties": {
+              "name": "Isolation of Unsafe Code",
+              "state": "No.16"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 224,
+        "labels": [
+          "subject"
+        ],
+        "properties": {
+          "name": "Memory Safety and Programming Language Design"
+        }
+      },
+      "end": {
+        "identity": 244,
+        "labels": [
+          "chapter"
+        ],
+        "properties": {
+          "name": "Introduction",
+          "state": "No.1"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 224,
+            "labels": [
+              "subject"
+            ],
+            "properties": {
+              "name": "Memory Safety and Programming Language Design"
+            }
+          },
+          "relationship": {
+            "identity": 146,
+            "start": 224,
+            "end": 244,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 244,
+            "labels": [
+              "chapter"
+            ],
+            "properties": {
+              "name": "Introduction",
+              "state": "No.1"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 244,
+        "labels": [
+          "chapter"
+        ],
+        "properties": {
+          "name": "Introduction",
+          "state": "No.1"
+        }
+      },
+      "end": {
+        "identity": 245,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "Computer Architecture",
+          "state": "1.3"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 244,
+            "labels": [
+              "chapter"
+            ],
+            "properties": {
+              "name": "Introduction",
+              "state": "No.1"
+            }
+          },
+          "relationship": {
+            "identity": 166,
+            "start": 244,
+            "end": 245,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 245,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "Computer Architecture",
+              "state": "1.3"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 317,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "Heap Attack",
+          "state": "4.10-16"
+        }
+      },
+      "end": {
+        "identity": 246,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "Double free",
+          "state": "4.14"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 317,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "Heap Attack",
+              "state": "4.10-16"
+            }
+          },
+          "relationship": {
+            "identity": 148,
+            "start": 317,
+            "end": 246,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 246,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "Double free",
+              "state": "4.14"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 246,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "Double free",
+          "state": "4.14"
+        }
+      },
+      "end": {
+        "identity": 247,
+        "labels": [
+          "practice"
+        ],
+        "properties": {
+          "name": "practice2",
+          "state": "4.15-16"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 246,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "Double free",
+              "state": "4.14"
+            }
+          },
+          "relationship": {
+            "identity": 209,
+            "start": 246,
+            "end": 247,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 247,
+            "labels": [
+              "practice"
+            ],
+            "properties": {
+              "name": "practice2",
+              "state": "4.15-16"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 317,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "Heap Attack",
+          "state": "4.10-16"
+        }
+      },
+      "end": {
+        "identity": 248,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "Address of Attacking Interest",
+          "state": "4.15"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 317,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "Heap Attack",
+              "state": "4.10-16"
+            }
+          },
+          "relationship": {
+            "identity": 223,
+            "start": 317,
+            "end": 248,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 248,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "Address of Attacking Interest",
+              "state": "4.15"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 350,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "Out-of-Order Execution",
+          "state": "6.13"
+        }
+      },
+      "end": {
+        "identity": 249,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "CPU out-of-order execution",
+          "state": "6.13"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 350,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "Out-of-Order Execution",
+              "state": "6.13"
+            }
+          },
+          "relationship": {
+            "identity": 243,
+            "start": 350,
+            "end": 249,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 249,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "CPU out-of-order execution",
+              "state": "6.13"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 287,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "Protection Techniques",
+          "state": "4.17-24"
+        }
+      },
+      "end": {
+        "identity": 250,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "RW Dangling/Invalid Pointer",
+          "state": "4.21"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 287,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "Protection Techniques",
+              "state": "4.17-24"
+            }
+          },
+          "relationship": {
+            "identity": 279,
+            "start": 287,
+            "end": 250,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 250,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "RW Dangling/Invalid Pointer",
+              "state": "4.21"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 228,
+        "labels": [
+          "chapter"
+        ],
+        "properties": {
+          "name": "Concurrent Memory Access",
+          "state": "No.5"
+        }
+      },
+      "end": {
+        "identity": 251,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "Instruction reorder and memory barrier",
+          "state": "6.12-18"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 228,
+            "labels": [
+              "chapter"
+            ],
+            "properties": {
+              "name": "Concurrent Memory Access",
+              "state": "No.5"
+            }
+          },
+          "relationship": {
+            "identity": 184,
+            "start": 228,
+            "end": 251,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 251,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "Instruction reorder and memory barrier",
+              "state": "6.12-18"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 350,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "Out-of-Order Execution",
+          "state": "6.13"
+        }
+      },
+      "end": {
+        "identity": 252,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "Compiler reordering",
+          "state": "6.14"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 350,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "Out-of-Order Execution",
+              "state": "6.13"
+            }
+          },
+          "relationship": {
+            "identity": 288,
+            "start": 350,
+            "end": 252,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 252,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "Compiler reordering",
+              "state": "6.14"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 351,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "Stack Overflow",
+          "state": "5.4-8"
+        }
+      },
+      "end": {
+        "identity": 253,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "Change the Limit",
+          "state": "5.7"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 351,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "Stack Overflow",
+              "state": "5.4-8"
+            }
+          },
+          "relationship": {
+            "identity": 164,
+            "start": 351,
+            "end": 253,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 253,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "Change the Limit",
+              "state": "5.7"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 309,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "Heap Exhaustion",
+          "state": "5.9-12"
+        }
+      },
+      "end": {
+        "identity": 254,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "Overcommit",
+          "state": "5.10"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 309,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "Heap Exhaustion",
+              "state": "5.9-12"
+            }
+          },
+          "relationship": {
+            "identity": 245,
+            "start": 309,
+            "end": 254,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 254,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "Overcommit",
+              "state": "5.10"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 311,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "Exceptions based on Origin",
+          "state": "5.14"
+        }
+      },
+      "end": {
+        "identity": 255,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "OS Signal",
+          "state": "5.16"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 311,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "Exceptions based on Origin",
+              "state": "5.14"
+            }
+          },
+          "relationship": {
+            "identity": 247,
+            "start": 311,
+            "end": 255,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 255,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "OS Signal",
+              "state": "5.16"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 257,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "Exception Handling Issue",
+          "state": "5.18"
+        }
+      },
+      "end": {
+        "identity": 256,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "setjmp/longjmp",
+          "state": "5.19"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 257,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "Exception Handling Issue",
+              "state": "5.18"
+            }
+          },
+          "relationship": {
+            "identity": 286,
+            "start": 257,
+            "end": 256,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 256,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "setjmp/longjmp",
+              "state": "5.19"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 310,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "Exception Handling",
+          "state": "5.13-21"
+        }
+      },
+      "end": {
+        "identity": 257,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "Exception Handling Issue",
+          "state": "5.18"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 310,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "Exception Handling",
+              "state": "5.13-21"
+            }
+          },
+          "relationship": {
+            "identity": 285,
+            "start": 310,
+            "end": 257,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 257,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "Exception Handling Issue",
+              "state": "5.18"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 352,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "Stack Unwinding",
+          "state": "5.22-29"
+        }
+      },
+      "end": {
+        "identity": 258,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "Problem",
+          "state": "5.23"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 352,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "Stack Unwinding",
+              "state": "5.22-29"
+            }
+          },
+          "relationship": {
+            "identity": 294,
+            "start": 352,
+            "end": 258,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 258,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "Problem",
+              "state": "5.23"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 258,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "Problem",
+          "state": "5.23"
+        }
+      },
+      "end": {
+        "identity": 259,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "Solution",
+          "state": "5.24"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 258,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "Problem",
+              "state": "5.23"
+            }
+          },
+          "relationship": {
+            "identity": 229,
+            "start": 258,
+            "end": 259,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 259,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "Solution",
+              "state": "5.24"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 287,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "Protection Techniques",
+          "state": "4.17-24"
+        }
+      },
+      "end": {
+        "identity": 264,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "invalid pointers in free",
+          "state": "4.19"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 287,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "Protection Techniques",
+              "state": "4.17-24"
+            }
+          },
+          "relationship": {
+            "identity": 163,
+            "start": 287,
+            "end": 264,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 264,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "invalid pointers in free",
+              "state": "4.19"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 319,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "Data race and atomicity",
+          "state": "6.4-11"
+        }
+      },
+      "end": {
+        "identity": 265,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "Mutual Exclusion or Mutex",
+          "state": "6.8"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 319,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "Data race and atomicity",
+              "state": "6.4-11"
+            }
+          },
+          "relationship": {
+            "identity": 277,
+            "start": 319,
+            "end": 265,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 265,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "Mutual Exclusion or Mutex",
+              "state": "6.8"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 317,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "Heap Attack",
+          "state": "4.10-16"
+        }
+      },
+      "end": {
+        "identity": 266,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "Use after free",
+          "state": "4.13"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 317,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "Heap Attack",
+              "state": "4.10-16"
+            }
+          },
+          "relationship": {
+            "identity": 208,
+            "start": 317,
+            "end": 266,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 266,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "Use after free",
+              "state": "4.13"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 316,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "Heap Analysis",
+          "state": "4.3-4.9"
+        }
+      },
+      "end": {
+        "identity": 267,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "Tcachebins",
+          "state": "4.8-9"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 316,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "Heap Analysis",
+              "state": "4.3-4.9"
+            }
+          },
+          "relationship": {
+            "identity": 222,
+            "start": 316,
+            "end": 267,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 267,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "Tcachebins",
+              "state": "4.8-9"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 304,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "Memory Safety Issues",
+          "state": "1.4"
+        }
+      },
+      "end": {
+        "identity": 268,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "Consequence",
+          "state": "1.5"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 304,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "Memory Safety Issues",
+              "state": "1.4"
+            }
+          },
+          "relationship": {
+            "identity": 169,
+            "start": 304,
+            "end": 268,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 268,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "Consequence",
+              "state": "1.5"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 287,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "Protection Techniques",
+          "state": "4.17-24"
+        }
+      },
+      "end": {
+        "identity": 269,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "Static Analysis",
+          "state": "4.23"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 287,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "Protection Techniques",
+              "state": "4.17-24"
+            }
+          },
+          "relationship": {
+            "identity": 168,
+            "start": 287,
+            "end": 269,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 269,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "Static Analysis",
+              "state": "4.23"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 317,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "Heap Attack",
+          "state": "4.10-16"
+        }
+      },
+      "end": {
+        "identity": 270,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "Heap Overflow",
+          "state": "4.12"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 317,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "Heap Attack",
+              "state": "4.10-16"
+            }
+          },
+          "relationship": {
+            "identity": 207,
+            "start": 317,
+            "end": 270,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 270,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "Heap Overflow",
+              "state": "4.12"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 225,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "Types of bugs",
+          "state": "1.5"
+        }
+      },
+      "end": {
+        "identity": 271,
+        "labels": [
+          "chapter"
+        ],
+        "properties": {
+          "name": "Dangling Pointers",
+          "state": "No.3+1.7"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 225,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "Types of bugs",
+              "state": "1.5"
+            }
+          },
+          "relationship": {
+            "identity": 156,
+            "start": 225,
+            "end": 271,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 271,
+            "labels": [
+              "chapter"
+            ],
+            "properties": {
+              "name": "Dangling Pointers",
+              "state": "No.3+1.7"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 224,
+        "labels": [
+          "subject"
+        ],
+        "properties": {
+          "name": "Memory Safety and Programming Language Design"
+        }
+      },
+      "end": {
+        "identity": 271,
+        "labels": [
+          "chapter"
+        ],
+        "properties": {
+          "name": "Dangling Pointers",
+          "state": "No.3+1.7"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 224,
+            "labels": [
+              "subject"
+            ],
+            "properties": {
+              "name": "Memory Safety and Programming Language Design"
+            }
+          },
+          "relationship": {
+            "identity": 173,
+            "start": 224,
+            "end": 271,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 271,
+            "labels": [
+              "chapter"
+            ],
+            "properties": {
+              "name": "Dangling Pointers",
+              "state": "No.3+1.7"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 224,
+        "labels": [
+          "subject"
+        ],
+        "properties": {
+          "name": "Memory Safety and Programming Language Design"
+        }
+      },
+      "end": {
+        "identity": 272,
+        "labels": [
+          "chapter"
+        ],
+        "properties": {
+          "name": "Effectiveness of Rust",
+          "state": "No.11"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 224,
+            "labels": [
+              "subject"
+            ],
+            "properties": {
+              "name": "Memory Safety and Programming Language Design"
+            }
+          },
+          "relationship": {
+            "identity": 151,
+            "start": 224,
+            "end": 272,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 272,
+            "labels": [
+              "chapter"
+            ],
+            "properties": {
+              "name": "Effectiveness of Rust",
+              "state": "No.11"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 224,
+        "labels": [
+          "subject"
+        ],
+        "properties": {
+          "name": "Memory Safety and Programming Language Design"
+        }
+      },
+      "end": {
+        "identity": 273,
+        "labels": [
+          "chapter"
+        ],
+        "properties": {
+          "name": "Static Program Analysis",
+          "state": "No.14"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 224,
+            "labels": [
+              "subject"
+            ],
+            "properties": {
+              "name": "Memory Safety and Programming Language Design"
+            }
+          },
+          "relationship": {
+            "identity": 178,
+            "start": 224,
+            "end": 273,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 273,
+            "labels": [
+              "chapter"
+            ],
+            "properties": {
+              "name": "Static Program Analysis",
+              "state": "No.14"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 224,
+        "labels": [
+          "subject"
+        ],
+        "properties": {
+          "name": "Memory Safety and Programming Language Design"
+        }
+      },
+      "end": {
+        "identity": 274,
+        "labels": [
+          "chapter"
+        ],
+        "properties": {
+          "name": "Symbolic Execution",
+          "state": "No.15"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 224,
+            "labels": [
+              "subject"
+            ],
+            "properties": {
+              "name": "Memory Safety and Programming Language Design"
+            }
+          },
+          "relationship": {
+            "identity": 153,
+            "start": 224,
+            "end": 274,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 274,
+            "labels": [
+              "chapter"
+            ],
+            "properties": {
+              "name": "Symbolic Execution",
+              "state": "No.15"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 224,
+        "labels": [
+          "subject"
+        ],
+        "properties": {
+          "name": "Memory Safety and Programming Language Design"
+        }
+      },
+      "end": {
+        "identity": 275,
+        "labels": [
+          "chapter"
+        ],
+        "properties": {
+          "name": "Code Search and Recommendation",
+          "state": "No.17"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 224,
+            "labels": [
+              "subject"
+            ],
+            "properties": {
+              "name": "Memory Safety and Programming Language Design"
+            }
+          },
+          "relationship": {
+            "identity": 154,
+            "start": 224,
+            "end": 275,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 275,
+            "labels": [
+              "chapter"
+            ],
+            "properties": {
+              "name": "Code Search and Recommendation",
+              "state": "No.17"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 225,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "Types of bugs",
+          "state": "1.5"
+        }
+      },
+      "end": {
+        "identity": 276,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "Concurrency Issue",
+          "state": "1.8"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 225,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "Types of bugs",
+              "state": "1.5"
+            }
+          },
+          "relationship": {
+            "identity": 180,
+            "start": 225,
+            "end": 276,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 276,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "Concurrency Issue",
+              "state": "1.8"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 304,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "Memory Safety Issues",
+          "state": "1.4"
+        }
+      },
+      "end": {
+        "identity": 277,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "Availability Issue",
+          "state": "1.12"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 304,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "Memory Safety Issues",
+              "state": "1.4"
+            }
+          },
+          "relationship": {
+            "identity": 193,
+            "start": 304,
+            "end": 277,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 277,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "Availability Issue",
+              "state": "1.12"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 314,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "Stack Smashing",
+          "state": "2.3-10"
+        }
+      },
+      "end": {
+        "identity": 278,
+        "labels": [
+          "practice"
+        ],
+        "properties": {
+          "name": "Practice1",
+          "state": "2.11"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 314,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "Stack Smashing",
+              "state": "2.3-10"
+            }
+          },
+          "relationship": {
+            "identity": 158,
+            "start": 314,
+            "end": 278,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 278,
+            "labels": [
+              "practice"
+            ],
+            "properties": {
+              "name": "Practice1",
+              "state": "2.11"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 251,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "Instruction reorder and memory barrier",
+          "state": "6.12-18"
+        }
+      },
+      "end": {
+        "identity": 279,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "Use Memory Barrier (Fence)",
+          "state": "6.16"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 251,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "Instruction reorder and memory barrier",
+              "state": "6.12-18"
+            }
+          },
+          "relationship": {
+            "identity": 278,
+            "start": 251,
+            "end": 279,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 279,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "Use Memory Barrier (Fence)",
+              "state": "6.16"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 287,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "Protection Techniques",
+          "state": "4.17-24"
+        }
+      },
+      "end": {
+        "identity": 280,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "double free in free",
+          "state": "4.20"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 287,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "Protection Techniques",
+              "state": "4.17-24"
+            }
+          },
+          "relationship": {
+            "identity": 275,
+            "start": 287,
+            "end": 280,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 280,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "double free in free",
+              "state": "4.20"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 305,
+        "labels": [
+          "chapter"
+        ],
+        "properties": {
+          "name": "Memory Allocator",
+          "state": "No.2"
+        }
+      },
+      "end": {
+        "identity": 281,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "Virtual Memory System",
+          "state": "3.3-8"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 305,
+            "labels": [
+              "chapter"
+            ],
+            "properties": {
+              "name": "Memory Allocator",
+              "state": "No.2"
+            }
+          },
+          "relationship": {
+            "identity": 183,
+            "start": 305,
+            "end": 281,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 281,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "Virtual Memory System",
+              "state": "3.3-8"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 319,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "Data race and atomicity",
+          "state": "6.4-11"
+        }
+      },
+      "end": {
+        "identity": 282,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "Atomic Version",
+          "state": "6.6"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 319,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "Data race and atomicity",
+              "state": "6.4-11"
+            }
+          },
+          "relationship": {
+            "identity": 240,
+            "start": 319,
+            "end": 282,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 282,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "Atomic Version",
+              "state": "6.6"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 319,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "Data race and atomicity",
+          "state": "6.4-11"
+        }
+      },
+      "end": {
+        "identity": 283,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "Mechanism of Atomicity",
+          "state": "6.7"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 319,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "Data race and atomicity",
+              "state": "6.4-11"
+            }
+          },
+          "relationship": {
+            "identity": 185,
+            "start": 319,
+            "end": 283,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 283,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "Mechanism of Atomicity",
+              "state": "6.7"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 313,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "Protection Techniques",
+          "state": "2.12-19"
+        }
+      },
+      "end": {
+        "identity": 284,
+        "labels": [
+          "practice"
+        ],
+        "properties": {
+          "name": "Practice2",
+          "state": "2.20"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 313,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "Protection Techniques",
+              "state": "2.12-19"
+            }
+          },
+          "relationship": {
+            "identity": 159,
+            "start": 313,
+            "end": 284,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 284,
+            "labels": [
+              "practice"
+            ],
+            "properties": {
+              "name": "Practice2",
+              "state": "2.20"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 279,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "Use Memory Barrier (Fence)",
+          "state": "6.16"
+        }
+      },
+      "end": {
+        "identity": 285,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "Relax Happens-Before Requirement",
+          "state": "6.18"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 279,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "Use Memory Barrier (Fence)",
+              "state": "6.16"
+            }
+          },
+          "relationship": {
+            "identity": 289,
+            "start": 279,
+            "end": 285,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 285,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "Relax Happens-Before Requirement",
+              "state": "6.18"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 305,
+        "labels": [
+          "chapter"
+        ],
+        "properties": {
+          "name": "Memory Allocator",
+          "state": "No.2"
+        }
+      },
+      "end": {
+        "identity": 286,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "Auto Memory Reclaim",
+          "state": "3.19-33"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 305,
+            "labels": [
+              "chapter"
+            ],
+            "properties": {
+              "name": "Memory Allocator",
+              "state": "No.2"
+            }
+          },
+          "relationship": {
+            "identity": 150,
+            "start": 305,
+            "end": 286,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 286,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "Auto Memory Reclaim",
+              "state": "3.19-33"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 271,
+        "labels": [
+          "chapter"
+        ],
+        "properties": {
+          "name": "Dangling Pointers",
+          "state": "No.3+1.7"
+        }
+      },
+      "end": {
+        "identity": 287,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "Protection Techniques",
+          "state": "4.17-24"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 271,
+            "labels": [
+              "chapter"
+            ],
+            "properties": {
+              "name": "Dangling Pointers",
+              "state": "No.3+1.7"
+            }
+          },
+          "relationship": {
+            "identity": 161,
+            "start": 271,
+            "end": 287,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 287,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "Protection Techniques",
+              "state": "4.17-24"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 266,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "Use after free",
+          "state": "4.13"
+        }
+      },
+      "end": {
+        "identity": 288,
+        "labels": [
+          "practice"
+        ],
+        "properties": {
+          "name": "practice1",
+          "state": "4.15-16"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 266,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "Use after free",
+              "state": "4.13"
+            }
+          },
+          "relationship": {
+            "identity": 210,
+            "start": 266,
+            "end": 288,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 288,
+            "labels": [
+              "practice"
+            ],
+            "properties": {
+              "name": "practice1",
+              "state": "4.15-16"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 316,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "Heap Analysis",
+          "state": "4.3-4.9"
+        }
+      },
+      "end": {
+        "identity": 289,
+        "labels": [
+          "tool"
+        ],
+        "properties": {
+          "name": "GEF",
+          "state": "4.5-7"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 316,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "Heap Analysis",
+              "state": "4.3-4.9"
+            }
+          },
+          "relationship": {
+            "identity": 254,
+            "start": 316,
+            "end": 289,
+            "type": "tool",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 289,
+            "labels": [
+              "tool"
+            ],
+            "properties": {
+              "name": "GEF",
+              "state": "4.5-7"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 287,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "Protection Techniques",
+          "state": "4.17-24"
+        }
+      },
+      "end": {
+        "identity": 302,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "BiBOP-Style Heap",
+          "state": "4.22"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 287,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "Protection Techniques",
+              "state": "4.17-24"
+            }
+          },
+          "relationship": {
+            "identity": 281,
+            "start": 287,
+            "end": 302,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 302,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "BiBOP-Style Heap",
+              "state": "4.22"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 244,
+        "labels": [
+          "chapter"
+        ],
+        "properties": {
+          "name": "Introduction",
+          "state": "No.1"
+        }
+      },
+      "end": {
+        "identity": 303,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "Operating System",
+          "state": "1.4"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 244,
+            "labels": [
+              "chapter"
+            ],
+            "properties": {
+              "name": "Introduction",
+              "state": "No.1"
+            }
+          },
+          "relationship": {
+            "identity": 167,
+            "start": 244,
+            "end": 303,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 303,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "Operating System",
+              "state": "1.4"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 244,
+        "labels": [
+          "chapter"
+        ],
+        "properties": {
+          "name": "Introduction",
+          "state": "No.1"
+        }
+      },
+      "end": {
+        "identity": 304,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "Memory Safety Issues",
+          "state": "1.4"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 244,
+            "labels": [
+              "chapter"
+            ],
+            "properties": {
+              "name": "Introduction",
+              "state": "No.1"
+            }
+          },
+          "relationship": {
+            "identity": 147,
+            "start": 244,
+            "end": 304,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 304,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "Memory Safety Issues",
+              "state": "1.4"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 224,
+        "labels": [
+          "subject"
+        ],
+        "properties": {
+          "name": "Memory Safety and Programming Language Design"
+        }
+      },
+      "end": {
+        "identity": 305,
+        "labels": [
+          "chapter"
+        ],
+        "properties": {
+          "name": "Memory Allocator",
+          "state": "No.2"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 224,
+            "labels": [
+              "subject"
+            ],
+            "properties": {
+              "name": "Memory Safety and Programming Language Design"
+            }
+          },
+          "relationship": {
+            "identity": 188,
+            "start": 224,
+            "end": 305,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 305,
+            "labels": [
+              "chapter"
+            ],
+            "properties": {
+              "name": "Memory Allocator",
+              "state": "No.2"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 224,
+        "labels": [
+          "subject"
+        ],
+        "properties": {
+          "name": "Memory Safety and Programming Language Design"
+        }
+      },
+      "end": {
+        "identity": 306,
+        "labels": [
+          "chapter"
+        ],
+        "properties": {
+          "name": "Rust Ownership-based Memory Management",
+          "state": "No.6"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 224,
+            "labels": [
+              "subject"
+            ],
+            "properties": {
+              "name": "Memory Safety and Programming Language Design"
+            }
+          },
+          "relationship": {
+            "identity": 174,
+            "start": 224,
+            "end": 306,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 306,
+            "labels": [
+              "chapter"
+            ],
+            "properties": {
+              "name": "Rust Ownership-based Memory Management",
+              "state": "No.6"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 224,
+        "labels": [
+          "subject"
+        ],
+        "properties": {
+          "name": "Memory Safety and Programming Language Design"
+        }
+      },
+      "end": {
+        "identity": 307,
+        "labels": [
+          "chapter"
+        ],
+        "properties": {
+          "name": "Rust Generics and Traits",
+          "state": "No.7"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 224,
+            "labels": [
+              "subject"
+            ],
+            "properties": {
+              "name": "Memory Safety and Programming Language Design"
+            }
+          },
+          "relationship": {
+            "identity": 175,
+            "start": 224,
+            "end": 307,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 307,
+            "labels": [
+              "chapter"
+            ],
+            "properties": {
+              "name": "Rust Generics and Traits",
+              "state": "No.7"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 244,
+        "labels": [
+          "chapter"
+        ],
+        "properties": {
+          "name": "Introduction",
+          "state": "No.1"
+        }
+      },
+      "end": {
+        "identity": 308,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "Methods to Protect Memory Safety",
+          "state": "1.11"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 244,
+            "labels": [
+              "chapter"
+            ],
+            "properties": {
+              "name": "Introduction",
+              "state": "No.1"
+            }
+          },
+          "relationship": {
+            "identity": 157,
+            "start": 244,
+            "end": 308,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 308,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "Methods to Protect Memory Safety",
+              "state": "1.11"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 227,
+        "labels": [
+          "chapter"
+        ],
+        "properties": {
+          "name": "Memory Exhaustion",
+          "state": "No.4"
+        }
+      },
+      "end": {
+        "identity": 309,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "Heap Exhaustion",
+          "state": "5.9-12"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 227,
+            "labels": [
+              "chapter"
+            ],
+            "properties": {
+              "name": "Memory Exhaustion",
+              "state": "No.4"
+            }
+          },
+          "relationship": {
+            "identity": 224,
+            "start": 227,
+            "end": 309,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 309,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "Heap Exhaustion",
+              "state": "5.9-12"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 227,
+        "labels": [
+          "chapter"
+        ],
+        "properties": {
+          "name": "Memory Exhaustion",
+          "state": "No.4"
+        }
+      },
+      "end": {
+        "identity": 310,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "Exception Handling",
+          "state": "5.13-21"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 227,
+            "labels": [
+              "chapter"
+            ],
+            "properties": {
+              "name": "Memory Exhaustion",
+              "state": "No.4"
+            }
+          },
+          "relationship": {
+            "identity": 276,
+            "start": 227,
+            "end": 310,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 310,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "Exception Handling",
+              "state": "5.13-21"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 310,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "Exception Handling",
+          "state": "5.13-21"
+        }
+      },
+      "end": {
+        "identity": 311,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "Exceptions based on Origin",
+          "state": "5.14"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 310,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "Exception Handling",
+              "state": "5.13-21"
+            }
+          },
+          "relationship": {
+            "identity": 225,
+            "start": 310,
+            "end": 311,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 311,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "Exceptions based on Origin",
+              "state": "5.14"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 226,
+        "labels": [
+          "chapter"
+        ],
+        "properties": {
+          "name": "Buffer Overflow",
+          "state": "No.1+1.6"
+        }
+      },
+      "end": {
+        "identity": 312,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "Advanced Topics",
+          "state": "2.21-26"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 226,
+            "labels": [
+              "chapter"
+            ],
+            "properties": {
+              "name": "Buffer Overflow",
+              "state": "No.1+1.6"
+            }
+          },
+          "relationship": {
+            "identity": 172,
+            "start": 226,
+            "end": 312,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 312,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "Advanced Topics",
+              "state": "2.21-26"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 226,
+        "labels": [
+          "chapter"
+        ],
+        "properties": {
+          "name": "Buffer Overflow",
+          "state": "No.1+1.6"
+        }
+      },
+      "end": {
+        "identity": 313,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "Protection Techniques",
+          "state": "2.12-19"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 226,
+            "labels": [
+              "chapter"
+            ],
+            "properties": {
+              "name": "Buffer Overflow",
+              "state": "No.1+1.6"
+            }
+          },
+          "relationship": {
+            "identity": 155,
+            "start": 226,
+            "end": 313,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 313,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "Protection Techniques",
+              "state": "2.12-19"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 226,
+        "labels": [
+          "chapter"
+        ],
+        "properties": {
+          "name": "Buffer Overflow",
+          "state": "No.1+1.6"
+        }
+      },
+      "end": {
+        "identity": 314,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "Stack Smashing",
+          "state": "2.3-10"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 226,
+            "labels": [
+              "chapter"
+            ],
+            "properties": {
+              "name": "Buffer Overflow",
+              "state": "No.1+1.6"
+            }
+          },
+          "relationship": {
+            "identity": 182,
+            "start": 226,
+            "end": 314,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 314,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "Stack Smashing",
+              "state": "2.3-10"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 305,
+        "labels": [
+          "chapter"
+        ],
+        "properties": {
+          "name": "Memory Allocator",
+          "state": "No.2"
+        }
+      },
+      "end": {
+        "identity": 315,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "Dynamic Memory Allocation",
+          "state": "3.9-18"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 305,
+            "labels": [
+              "chapter"
+            ],
+            "properties": {
+              "name": "Memory Allocator",
+              "state": "No.2"
+            }
+          },
+          "relationship": {
+            "identity": 221,
+            "start": 305,
+            "end": 315,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 315,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "Dynamic Memory Allocation",
+              "state": "3.9-18"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 271,
+        "labels": [
+          "chapter"
+        ],
+        "properties": {
+          "name": "Dangling Pointers",
+          "state": "No.3+1.7"
+        }
+      },
+      "end": {
+        "identity": 316,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "Heap Analysis",
+          "state": "4.3-4.9"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 271,
+            "labels": [
+              "chapter"
+            ],
+            "properties": {
+              "name": "Dangling Pointers",
+              "state": "No.3+1.7"
+            }
+          },
+          "relationship": {
+            "identity": 160,
+            "start": 271,
+            "end": 316,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 316,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "Heap Analysis",
+              "state": "4.3-4.9"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 271,
+        "labels": [
+          "chapter"
+        ],
+        "properties": {
+          "name": "Dangling Pointers",
+          "state": "No.3+1.7"
+        }
+      },
+      "end": {
+        "identity": 317,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "Heap Attack",
+          "state": "4.10-16"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 271,
+            "labels": [
+              "chapter"
+            ],
+            "properties": {
+              "name": "Dangling Pointers",
+              "state": "No.3+1.7"
+            }
+          },
+          "relationship": {
+            "identity": 206,
+            "start": 271,
+            "end": 317,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 317,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "Heap Attack",
+              "state": "4.10-16"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 287,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "Protection Techniques",
+          "state": "4.17-24"
+        }
+      },
+      "end": {
+        "identity": 318,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "Programming Language Design",
+          "state": "4.24"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 287,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "Protection Techniques",
+              "state": "4.17-24"
+            }
+          },
+          "relationship": {
+            "identity": 220,
+            "start": 287,
+            "end": 318,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 318,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "Programming Language Design",
+              "state": "4.24"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 228,
+        "labels": [
+          "chapter"
+        ],
+        "properties": {
+          "name": "Concurrent Memory Access",
+          "state": "No.5"
+        }
+      },
+      "end": {
+        "identity": 319,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "Data race and atomicity",
+          "state": "6.4-11"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 228,
+            "labels": [
+              "chapter"
+            ],
+            "properties": {
+              "name": "Concurrent Memory Access",
+              "state": "No.5"
+            }
+          },
+          "relationship": {
+            "identity": 283,
+            "start": 228,
+            "end": 319,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 319,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "Data race and atomicity",
+              "state": "6.4-11"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 279,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "Use Memory Barrier (Fence)",
+          "state": "6.16"
+        }
+      },
+      "end": {
+        "identity": 320,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "Relax the Variables",
+          "state": "6.17"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 279,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "Use Memory Barrier (Fence)",
+              "state": "6.16"
+            }
+          },
+          "relationship": {
+            "identity": 244,
+            "start": 279,
+            "end": 320,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 320,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "Relax the Variables",
+              "state": "6.17"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 319,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "Data race and atomicity",
+          "state": "6.4-11"
+        }
+      },
+      "end": {
+        "identity": 321,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "Data Race",
+          "state": "6.5"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 319,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "Data race and atomicity",
+              "state": "6.4-11"
+            }
+          },
+          "relationship": {
+            "identity": 181,
+            "start": 319,
+            "end": 321,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 321,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "Data Race",
+              "state": "6.5"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 311,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "Exceptions based on Origin",
+          "state": "5.14"
+        }
+      },
+      "end": {
+        "identity": 322,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "CPU Interrupt",
+          "state": "5.15"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 311,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "Exceptions based on Origin",
+              "state": "5.14"
+            }
+          },
+          "relationship": {
+            "identity": 246,
+            "start": 311,
+            "end": 322,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 322,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "CPU Interrupt",
+              "state": "5.15"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 257,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "Exception Handling Issue",
+          "state": "5.18"
+        }
+      },
+      "end": {
+        "identity": 323,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "Cleanup Attribute",
+          "state": "5.20"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 257,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "Exception Handling Issue",
+              "state": "5.18"
+            }
+          },
+          "relationship": {
+            "identity": 149,
+            "start": 257,
+            "end": 323,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 323,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "Cleanup Attribute",
+              "state": "5.20"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 352,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "Stack Unwinding",
+          "state": "5.22-29"
+        }
+      },
+      "end": {
+        "identity": 324,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "Usage of DWARF",
+          "state": "5.28"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 352,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "Stack Unwinding",
+              "state": "5.22-29"
+            }
+          },
+          "relationship": {
+            "identity": 227,
+            "start": 352,
+            "end": 324,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 324,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "Usage of DWARF",
+              "state": "5.28"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 352,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "Stack Unwinding",
+          "state": "5.22-29"
+        }
+      },
+      "end": {
+        "identity": 325,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "pyreadelf",
+          "state": "5.27"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 352,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "Stack Unwinding",
+              "state": "5.22-29"
+            }
+          },
+          "relationship": {
+            "identity": 228,
+            "start": 352,
+            "end": 325,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 325,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "pyreadelf",
+              "state": "5.27"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 228,
+        "labels": [
+          "chapter"
+        ],
+        "properties": {
+          "name": "Concurrent Memory Access",
+          "state": "No.5"
+        }
+      },
+      "end": {
+        "identity": 333,
+        "labels": [
+          "practice"
+        ],
+        "properties": {
+          "name": "In-Class Practice",
+          "state": "6.20"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 228,
+            "labels": [
+              "chapter"
+            ],
+            "properties": {
+              "name": "Concurrent Memory Access",
+              "state": "No.5"
+            }
+          },
+          "relationship": {
+            "identity": 165,
+            "start": 228,
+            "end": 333,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 333,
+            "labels": [
+              "practice"
+            ],
+            "properties": {
+              "name": "In-Class Practice",
+              "state": "6.20"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 265,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "Mutual Exclusion or Mutex",
+          "state": "6.8"
+        }
+      },
+      "end": {
+        "identity": 348,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "Compare and Set/Swap",
+          "state": "6.9"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 265,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "Mutual Exclusion or Mutex",
+              "state": "6.8"
+            }
+          },
+          "relationship": {
+            "identity": 241,
+            "start": 265,
+            "end": 348,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 348,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "Compare and Set/Swap",
+              "state": "6.9"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 265,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "Mutual Exclusion or Mutex",
+          "state": "6.8"
+        }
+      },
+      "end": {
+        "identity": 349,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "Peterson Algorithm for Mutex",
+          "state": "6.10"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 265,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "Mutual Exclusion or Mutex",
+              "state": "6.8"
+            }
+          },
+          "relationship": {
+            "identity": 242,
+            "start": 265,
+            "end": 349,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 349,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "Peterson Algorithm for Mutex",
+              "state": "6.10"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 251,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "Instruction reorder and memory barrier",
+          "state": "6.12-18"
+        }
+      },
+      "end": {
+        "identity": 350,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "Out-of-Order Execution",
+          "state": "6.13"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 251,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "Instruction reorder and memory barrier",
+              "state": "6.12-18"
+            }
+          },
+          "relationship": {
+            "identity": 287,
+            "start": 251,
+            "end": 350,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 350,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "Out-of-Order Execution",
+              "state": "6.13"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 227,
+        "labels": [
+          "chapter"
+        ],
+        "properties": {
+          "name": "Memory Exhaustion",
+          "state": "No.4"
+        }
+      },
+      "end": {
+        "identity": 351,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "Stack Overflow",
+          "state": "5.4-8"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 227,
+            "labels": [
+              "chapter"
+            ],
+            "properties": {
+              "name": "Memory Exhaustion",
+              "state": "No.4"
+            }
+          },
+          "relationship": {
+            "identity": 280,
+            "start": 227,
+            "end": 351,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 351,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "Stack Overflow",
+              "state": "5.4-8"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 227,
+        "labels": [
+          "chapter"
+        ],
+        "properties": {
+          "name": "Memory Exhaustion",
+          "state": "No.4"
+        }
+      },
+      "end": {
+        "identity": 352,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "Stack Unwinding",
+          "state": "5.22-29"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 227,
+            "labels": [
+              "chapter"
+            ],
+            "properties": {
+              "name": "Memory Exhaustion",
+              "state": "No.4"
+            }
+          },
+          "relationship": {
+            "identity": 162,
+            "start": 227,
+            "end": 352,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 352,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "Stack Unwinding",
+              "state": "5.22-29"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 309,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "Heap Exhaustion",
+          "state": "5.9-12"
+        }
+      },
+      "end": {
+        "identity": 353,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "To Small to Fail and OOM Killer",
+          "state": "5.11"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 309,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "Heap Exhaustion",
+              "state": "5.9-12"
+            }
+          },
+          "relationship": {
+            "identity": 282,
+            "start": 309,
+            "end": 353,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 353,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "To Small to Fail and OOM Killer",
+              "state": "5.11"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 310,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "Exception Handling",
+          "state": "5.13-21"
+        }
+      },
+      "end": {
+        "identity": 354,
+        "labels": [
+          "practice"
+        ],
+        "properties": {
+          "name": "In-Class Practice 1",
+          "state": "5.21"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 310,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "Exception Handling",
+              "state": "5.13-21"
+            }
+          },
+          "relationship": {
+            "identity": 187,
+            "start": 310,
+            "end": 354,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 354,
+            "labels": [
+              "practice"
+            ],
+            "properties": {
+              "name": "In-Class Practice 1",
+              "state": "5.21"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 352,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "Stack Unwinding",
+          "state": "5.22-29"
+        }
+      },
+      "end": {
+        "identity": 355,
+        "labels": [
+          "practice"
+        ],
+        "properties": {
+          "name": "In-Class Practice 2",
+          "state": "5.29"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 352,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "Stack Unwinding",
+              "state": "5.22-29"
+            }
+          },
+          "relationship": {
+            "identity": 284,
+            "start": 352,
+            "end": 355,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 355,
+            "labels": [
+              "practice"
+            ],
+            "properties": {
+              "name": "In-Class Practice 2",
+              "state": "5.29"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 255,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "OS Signal",
+          "state": "5.16"
+        }
+      },
+      "end": {
+        "identity": 356,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "Register the OS Signal",
+          "state": "5.17"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 255,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "OS Signal",
+              "state": "5.16"
+            }
+          },
+          "relationship": {
+            "identity": 226,
+            "start": 255,
+            "end": 356,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 356,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "Register the OS Signal",
+              "state": "5.17"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 306,
+        "labels": [
+          "chapter"
+        ],
+        "properties": {
+          "name": "Rust Ownership-based Memory Management",
+          "state": "No.6"
+        }
+      },
+      "end": {
+        "identity": 357,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "Ownership",
+          "state": "7.4-12"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 306,
+            "labels": [
+              "chapter"
+            ],
+            "properties": {
+              "name": "Rust Ownership-based Memory Management",
+              "state": "No.6"
+            }
+          },
+          "relationship": {
+            "identity": 317,
+            "start": 306,
+            "end": 357,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 357,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "Ownership",
+              "state": "7.4-12"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 306,
+        "labels": [
+          "chapter"
+        ],
+        "properties": {
+          "name": "Rust Ownership-based Memory Management",
+          "state": "No.6"
+        }
+      },
+      "end": {
+        "identity": 358,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "Unsafe Code",
+          "state": "7.30-39"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 306,
+            "labels": [
+              "chapter"
+            ],
+            "properties": {
+              "name": "Rust Ownership-based Memory Management",
+              "state": "No.6"
+            }
+          },
+          "relationship": {
+            "identity": 318,
+            "start": 306,
+            "end": 358,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 358,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "Unsafe Code",
+              "state": "7.30-39"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 357,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "Ownership",
+          "state": "7.4-12"
+        }
+      },
+      "end": {
+        "identity": 359,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "Ownership and Borrowing",
+          "state": "7.7"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 357,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "Ownership",
+              "state": "7.4-12"
+            }
+          },
+          "relationship": {
+            "identity": 296,
+            "start": 357,
+            "end": 359,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 359,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "Ownership and Borrowing",
+              "state": "7.7"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 357,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "Ownership",
+          "state": "7.4-12"
+        }
+      },
+      "end": {
+        "identity": 360,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "Pros and Cons",
+          "state": "7.12"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 357,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "Ownership",
+              "state": "7.4-12"
+            }
+          },
+          "relationship": {
+            "identity": 300,
+            "start": 357,
+            "end": 360,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 360,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "Pros and Cons",
+              "state": "7.12"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 358,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "Unsafe Code",
+          "state": "7.30-39"
+        }
+      },
+      "end": {
+        "identity": 361,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "Trust Model",
+          "state": "7.33"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 358,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "Unsafe Code",
+              "state": "7.30-39"
+            }
+          },
+          "relationship": {
+            "identity": 302,
+            "start": 358,
+            "end": 361,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 361,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "Trust Model",
+              "state": "7.33"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 378,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "RAII and Lifetime",
+          "state": "7.30-39"
+        }
+      },
+      "end": {
+        "identity": 377,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "Idea of RAII",
+          "state": "7.14"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 378,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "RAII and Lifetime",
+              "state": "7.30-39"
+            }
+          },
+          "relationship": {
+            "identity": 315,
+            "start": 378,
+            "end": 377,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 377,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "Idea of RAII",
+              "state": "7.14"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 306,
+        "labels": [
+          "chapter"
+        ],
+        "properties": {
+          "name": "Rust Ownership-based Memory Management",
+          "state": "No.6"
+        }
+      },
+      "end": {
+        "identity": 378,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "RAII and Lifetime",
+          "state": "7.30-39"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 306,
+            "labels": [
+              "chapter"
+            ],
+            "properties": {
+              "name": "Rust Ownership-based Memory Management",
+              "state": "No.6"
+            }
+          },
+          "relationship": {
+            "identity": 316,
+            "start": 306,
+            "end": 378,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 378,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "RAII and Lifetime",
+              "state": "7.30-39"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 357,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "Ownership",
+          "state": "7.4-12"
+        }
+      },
+      "end": {
+        "identity": 379,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "Move Operator (=)",
+          "state": "7.8"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 357,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "Ownership",
+              "state": "7.4-12"
+            }
+          },
+          "relationship": {
+            "identity": 297,
+            "start": 357,
+            "end": 379,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 379,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "Move Operator (=)",
+              "state": "7.8"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 357,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "Ownership",
+          "state": "7.4-12"
+        }
+      },
+      "end": {
+        "identity": 380,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "Which Type Can be Copy",
+          "state": "7.9"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 357,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "Ownership",
+              "state": "7.4-12"
+            }
+          },
+          "relationship": {
+            "identity": 298,
+            "start": 357,
+            "end": 380,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 380,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "Which Type Can be Copy",
+              "state": "7.9"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 357,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "Ownership",
+          "state": "7.4-12"
+        }
+      },
+      "end": {
+        "identity": 381,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "Mutability",
+          "state": "7.10"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 357,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "Ownership",
+              "state": "7.4-12"
+            }
+          },
+          "relationship": {
+            "identity": 299,
+            "start": 357,
+            "end": 381,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 381,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "Mutability",
+              "state": "7.10"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 378,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "RAII and Lifetime",
+          "state": "7.30-39"
+        }
+      },
+      "end": {
+        "identity": 382,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "Lifetime",
+          "state": "7.15"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 378,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "RAII and Lifetime",
+              "state": "7.30-39"
+            }
+          },
+          "relationship": {
+            "identity": 301,
+            "start": 378,
+            "end": 382,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 382,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "Lifetime",
+              "state": "7.15"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 358,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "Unsafe Code",
+          "state": "7.30-39"
+        }
+      },
+      "end": {
+        "identity": 383,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "Unsafe",
+          "state": "7.31"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 358,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "Unsafe Code",
+              "state": "7.30-39"
+            }
+          },
+          "relationship": {
+            "identity": 295,
+            "start": 358,
+            "end": 383,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 383,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "Unsafe",
+              "state": "7.31"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 358,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "Unsafe Code",
+          "state": "7.30-39"
+        }
+      },
+      "end": {
+        "identity": 384,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "Principle of Rust",
+          "state": "7.32"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 358,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "Unsafe Code",
+              "state": "7.30-39"
+            }
+          },
+          "relationship": {
+            "identity": 319,
+            "start": 358,
+            "end": 384,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 384,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "Principle of Rust",
+              "state": "7.32"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 397,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "RC",
+          "state": "7.37"
+        }
+      },
+      "end": {
+        "identity": 385,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "RC vs RefCell",
+          "state": "7.39"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 397,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "RC",
+              "state": "7.37"
+            }
+          },
+          "relationship": {
+            "identity": 323,
+            "start": 397,
+            "end": 385,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 385,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "RC vs RefCell",
+              "state": "7.39"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 398,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "RefCell",
+          "state": "7.38"
+        }
+      },
+      "end": {
+        "identity": 385,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "RC vs RefCell",
+          "state": "7.39"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 398,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "RefCell",
+              "state": "7.38"
+            }
+          },
+          "relationship": {
+            "identity": 322,
+            "start": 398,
+            "end": 385,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 385,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "RC vs RefCell",
+              "state": "7.39"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 358,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "Unsafe Code",
+          "state": "7.30-39"
+        }
+      },
+      "end": {
+        "identity": 397,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "RC",
+          "state": "7.37"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 358,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "Unsafe Code",
+              "state": "7.30-39"
+            }
+          },
+          "relationship": {
+            "identity": 320,
+            "start": 358,
+            "end": 397,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 397,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "RC",
+              "state": "7.37"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 358,
+        "labels": [
+          "subsection"
+        ],
+        "properties": {
+          "name": "Unsafe Code",
+          "state": "7.30-39"
+        }
+      },
+      "end": {
+        "identity": 398,
+        "labels": [
+          "branch"
+        ],
+        "properties": {
+          "name": "RefCell",
+          "state": "7.38"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 358,
+            "labels": [
+              "subsection"
+            ],
+            "properties": {
+              "name": "Unsafe Code",
+              "state": "7.30-39"
+            }
+          },
+          "relationship": {
+            "identity": 321,
+            "start": 358,
+            "end": 398,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 398,
+            "labels": [
+              "branch"
+            ],
+            "properties": {
+              "name": "RefCell",
+              "state": "7.38"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  }
+]

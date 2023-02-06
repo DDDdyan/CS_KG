@@ -1,0 +1,5610 @@
+[
+{
+  "p": {
+    "start": {
+      "identity": 405,
+      "labels": [
+        "chapter"
+      ],
+      "properties": {
+        "name": "语法分析",
+        "state": "1"
+      }
+    },
+    "end": {
+      "identity": 399,
+      "labels": [
+        "subsection"
+      ],
+      "properties": {
+        "name": "使用自动语法解析工具",
+        "teach": "Y",
+        "state": "1.3"
+      }
+    },
+    "segments": [
+      {
+        "start": {
+          "identity": 405,
+          "labels": [
+            "chapter"
+          ],
+          "properties": {
+            "name": "语法分析",
+            "state": "1"
+          }
+        },
+        "relationship": {
+          "identity": 331,
+          "start": 405,
+          "end": 399,
+          "type": "contain",
+          "properties": {
+
+          }
+        },
+        "end": {
+          "identity": 399,
+          "labels": [
+            "subsection"
+          ],
+          "properties": {
+            "name": "使用自动语法解析工具",
+            "teach": "Y",
+            "state": "1.3"
+          }
+        }
+      }
+    ],
+    "length": 1.0
+  }
+},
+{
+"p": {
+"start": {
+"identity": 406,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "语义分析",
+"state": "2"
+}
+},
+"end": {
+"identity": 400,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "作用域和绑定",
+"teach": "Y",
+"state": "2.2"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 406,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "语义分析",
+"state": "2"
+}
+},
+"relationship": {
+"identity": 332,
+"start": 406,
+"end": 400,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 400,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "作用域和绑定",
+"teach": "Y",
+"state": "2.2"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 406,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "语义分析",
+"state": "2"
+}
+},
+"end": {
+"identity": 401,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "类型检查",
+"teach": "Y",
+"state": "2.3"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 406,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "语义分析",
+"state": "2"
+}
+},
+"relationship": {
+"identity": 333,
+"start": 406,
+"end": 401,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 401,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "类型检查",
+"teach": "Y",
+"state": "2.3"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 406,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "语义分析",
+"state": "2"
+}
+},
+"end": {
+"identity": 402,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "属性语法",
+"teach": "N",
+"state": "2.4"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 406,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "语义分析",
+"state": "2"
+}
+},
+"relationship": {
+"identity": 334,
+"start": 406,
+"end": 402,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 402,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "属性语法",
+"teach": "N",
+"state": "2.4"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 407,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "代码生成",
+"state": "3"
+}
+},
+"end": {
+"identity": 403,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "分块编译和链接",
+"teach": "Y",
+"state": "3.2"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 407,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "代码生成",
+"state": "3"
+}
+},
+"relationship": {
+"identity": 140,
+"start": 407,
+"end": 403,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 403,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "分块编译和链接",
+"teach": "Y",
+"state": "3.2"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 450,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "动态内存管理",
+"teach": "Y",
+"state": "4.1"
+}
+},
+"end": {
+"identity": 404,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "智能指针",
+"teach": "Y",
+"state": "4.1.3"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 450,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "动态内存管理",
+"teach": "Y",
+"state": "4.1"
+}
+},
+"relationship": {
+"identity": 368,
+"start": 450,
+"end": 404,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 404,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "智能指针",
+"teach": "Y",
+"state": "4.1.3"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 526,
+"labels": [
+"subject"
+],
+"properties": {
+"name": "编译原理"
+}
+},
+"end": {
+"identity": 405,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "语法分析",
+"state": "1"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 526,
+"labels": [
+"subject"
+],
+"properties": {
+"name": "编译原理"
+}
+},
+"relationship": {
+"identity": 327,
+"start": 526,
+"end": 405,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 405,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "语法分析",
+"state": "1"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 526,
+"labels": [
+"subject"
+],
+"properties": {
+"name": "编译原理"
+}
+},
+"end": {
+"identity": 406,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "语义分析",
+"state": "2"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 526,
+"labels": [
+"subject"
+],
+"properties": {
+"name": "编译原理"
+}
+},
+"relationship": {
+"identity": 328,
+"start": 526,
+"end": 406,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 406,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "语义分析",
+"state": "2"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 526,
+"labels": [
+"subject"
+],
+"properties": {
+"name": "编译原理"
+}
+},
+"end": {
+"identity": 407,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "代码生成",
+"state": "3"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 526,
+"labels": [
+"subject"
+],
+"properties": {
+"name": "编译原理"
+}
+},
+"relationship": {
+"identity": 329,
+"start": 526,
+"end": 407,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 407,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "代码生成",
+"state": "3"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 526,
+"labels": [
+"subject"
+],
+"properties": {
+"name": "编译原理"
+}
+},
+"end": {
+"identity": 408,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "运行时",
+"state": "4"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 526,
+"labels": [
+"subject"
+],
+"properties": {
+"name": "编译原理"
+}
+},
+"relationship": {
+"identity": 77,
+"start": 526,
+"end": 408,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 408,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "运行时",
+"state": "4"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 526,
+"labels": [
+"subject"
+],
+"properties": {
+"name": "编译原理"
+}
+},
+"end": {
+"identity": 409,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "静态分析",
+"state": "5"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 526,
+"labels": [
+"subject"
+],
+"properties": {
+"name": "编译原理"
+}
+},
+"relationship": {
+"identity": 78,
+"start": 526,
+"end": 409,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 409,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "静态分析",
+"state": "5"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 526,
+"labels": [
+"subject"
+],
+"properties": {
+"name": "编译原理"
+}
+},
+"end": {
+"identity": 410,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "高级构件",
+"state": "6"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 526,
+"labels": [
+"subject"
+],
+"properties": {
+"name": "编译原理"
+}
+},
+"relationship": {
+"identity": 330,
+"start": 526,
+"end": 410,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 410,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "高级构件",
+"state": "6"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 405,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "语法分析",
+"state": "1"
+}
+},
+"end": {
+"identity": 411,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "正则表达式和词法分析",
+"teach": "Y",
+"state": "1.1"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 405,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "语法分析",
+"state": "1"
+}
+},
+"relationship": {
+"identity": 101,
+"start": 405,
+"end": 411,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 411,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "正则表达式和词法分析",
+"teach": "Y",
+"state": "1.1"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 451,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "数据布局",
+"teach": "Y",
+"state": "4.2"
+}
+},
+"end": {
+"identity": 412,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "对象布局",
+"teach": "Y",
+"state": "4.2.1"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 451,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "数据布局",
+"teach": "Y",
+"state": "4.2"
+}
+},
+"relationship": {
+"identity": 370,
+"start": 451,
+"end": 412,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 412,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "对象布局",
+"teach": "Y",
+"state": "4.2.1"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 451,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "数据布局",
+"teach": "Y",
+"state": "4.2"
+}
+},
+"end": {
+"identity": 413,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "Activation Records",
+"teach": "Y",
+"state": "4.2.2"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 451,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "数据布局",
+"teach": "Y",
+"state": "4.2"
+}
+},
+"relationship": {
+"identity": 325,
+"start": 451,
+"end": 413,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 413,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "Activation Records",
+"teach": "Y",
+"state": "4.2.2"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 409,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "静态分析",
+"state": "5"
+}
+},
+"end": {
+"identity": 414,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "非流敏感的分析",
+"teach": "N",
+"state": "5.3"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 409,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "静态分析",
+"state": "5"
+}
+},
+"relationship": {
+"identity": 346,
+"start": 409,
+"end": 414,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 414,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "非流敏感的分析",
+"teach": "N",
+"state": "5.3"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 409,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "静态分析",
+"state": "5"
+}
+},
+"end": {
+"identity": 415,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "流敏感的分析",
+"teach": "Y",
+"state": "5.4"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 409,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "静态分析",
+"state": "5"
+}
+},
+"relationship": {
+"identity": 347,
+"start": 409,
+"end": 415,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 415,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "流敏感的分析",
+"teach": "Y",
+"state": "5.4"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 409,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "静态分析",
+"state": "5"
+}
+},
+"end": {
+"identity": 416,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "路径敏感分析",
+"teach": "N",
+"state": "5.5"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 409,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "静态分析",
+"state": "5"
+}
+},
+"relationship": {
+"identity": 324,
+"start": 409,
+"end": 416,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 416,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "路径敏感分析",
+"teach": "N",
+"state": "5.5"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 410,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "高级构件",
+"state": "6"
+}
+},
+"end": {
+"identity": 418,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "控制抽象",
+"teach": "N",
+"state": "6.2"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 410,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "高级构件",
+"state": "6"
+}
+},
+"relationship": {
+"identity": 352,
+"start": 410,
+"end": 418,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 418,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "控制抽象",
+"teach": "N",
+"state": "6.2"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 457,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "上下文无关语言",
+"teach": "Y",
+"state": "1.2.1"
+}
+},
+"end": {
+"identity": 419,
+"labels": [
+"subbranch"
+],
+"properties": {
+"name": "结合性",
+"teach": "Y",
+"state": "1.2.1.2"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 457,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "上下文无关语言",
+"teach": "Y",
+"state": "1.2.1"
+}
+},
+"relationship": {
+"identity": 394,
+"start": 457,
+"end": 419,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 419,
+"labels": [
+"subbranch"
+],
+"properties": {
+"name": "结合性",
+"teach": "Y",
+"state": "1.2.1.2"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 453,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "OOP抽象",
+"teach": "N",
+"state": "6.3"
+}
+},
+"end": {
+"identity": 420,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "Multimethods",
+"teach": "N",
+"state": "6.3.4"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 453,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "OOP抽象",
+"teach": "N",
+"state": "6.3"
+}
+},
+"relationship": {
+"identity": 379,
+"start": 453,
+"end": 420,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 420,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "Multimethods",
+"teach": "N",
+"state": "6.3.4"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 529,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "Metaprogramming",
+"teach": "N",
+"state": "6.4"
+}
+},
+"end": {
+"identity": 421,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "Generative Programming",
+"teach": "N",
+"state": "6.4.2"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 529,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "Metaprogramming",
+"teach": "N",
+"state": "6.4"
+}
+},
+"relationship": {
+"identity": 380,
+"start": 529,
+"end": 421,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 421,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "Generative Programming",
+"teach": "N",
+"state": "6.4.2"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 529,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "Metaprogramming",
+"teach": "N",
+"state": "6.4"
+}
+},
+"end": {
+"identity": 422,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "宏",
+"teach": "N",
+"state": "6.4.1"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 529,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "Metaprogramming",
+"teach": "N",
+"state": "6.4"
+}
+},
+"relationship": {
+"identity": 393,
+"start": 529,
+"end": 422,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 422,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "宏",
+"teach": "N",
+"state": "6.4.1"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 437,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "动态编译",
+"teach": "Y",
+"state": "4.3"
+}
+},
+"end": {
+"identity": 423,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "动态重译",
+"teach": "N",
+"state": "4.3.2"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 437,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "动态编译",
+"teach": "Y",
+"state": "4.3"
+}
+},
+"relationship": {
+"identity": 345,
+"start": 437,
+"end": 423,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 423,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "动态重译",
+"teach": "N",
+"state": "4.3.2"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 414,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "非流敏感的分析",
+"teach": "N",
+"state": "5.3"
+}
+},
+"end": {
+"identity": 424,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "指针分析（Andersen/ Steensgaard）",
+"teach": "N",
+"state": "5.3.1"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 414,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "非流敏感的分析",
+"teach": "N",
+"state": "5.3"
+}
+},
+"relationship": {
+"identity": 374,
+"start": 414,
+"end": 424,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 424,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "指针分析（Andersen/ Steensgaard）",
+"teach": "N",
+"state": "5.3.1"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 453,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "OOP抽象",
+"teach": "N",
+"state": "6.3"
+}
+},
+"end": {
+"identity": 425,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "Mixins",
+"teach": "N",
+"state": "6.3.2"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 453,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "OOP抽象",
+"teach": "N",
+"state": "6.3"
+}
+},
+"relationship": {
+"identity": 391,
+"start": 453,
+"end": 425,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 425,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "Mixins",
+"teach": "N",
+"state": "6.3.2"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 442,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "自顶向下解析",
+"teach": "Y",
+"state": "1.2.2"
+}
+},
+"end": {
+"identity": 426,
+"labels": [
+"subbranch"
+],
+"properties": {
+"name": "递归下降",
+"teach": "Y",
+"state": "1.2.2.1"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 442,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "自顶向下解析",
+"teach": "Y",
+"state": "1.2.2"
+}
+},
+"relationship": {
+"identity": 382,
+"start": 442,
+"end": 426,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 426,
+"labels": [
+"subbranch"
+],
+"properties": {
+"name": "递归下降",
+"teach": "Y",
+"state": "1.2.2.1"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 442,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "自顶向下解析",
+"teach": "Y",
+"state": "1.2.2"
+}
+},
+"end": {
+"identity": 427,
+"labels": [
+"subbranch"
+],
+"properties": {
+"name": "LL",
+"teach": "N",
+"state": "1.2.2.2"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 442,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "自顶向下解析",
+"teach": "Y",
+"state": "1.2.2"
+}
+},
+"relationship": {
+"identity": 384,
+"start": 442,
+"end": 427,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 427,
+"labels": [
+"subbranch"
+],
+"properties": {
+"name": "LL",
+"teach": "N",
+"state": "1.2.2.2"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 442,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "自顶向下解析",
+"teach": "Y",
+"state": "1.2.2"
+}
+},
+"end": {
+"identity": 428,
+"labels": [
+"subbranch"
+],
+"properties": {
+"name": "Earley",
+"teach": "N",
+"state": "1.2.2.3"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 442,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "自顶向下解析",
+"teach": "Y",
+"state": "1.2.2"
+}
+},
+"relationship": {
+"identity": 383,
+"start": 442,
+"end": 428,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 428,
+"labels": [
+"subbranch"
+],
+"properties": {
+"name": "Earley",
+"teach": "N",
+"state": "1.2.2.3"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 405,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "语法分析",
+"state": "1"
+}
+},
+"end": {
+"identity": 430,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "语法解析",
+"teach": "Y",
+"state": "1.2"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 405,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "语法分析",
+"state": "1"
+}
+},
+"relationship": {
+"identity": 102,
+"start": 405,
+"end": 430,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 430,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "语法解析",
+"teach": "Y",
+"state": "1.2"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 406,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "语义分析",
+"state": "2"
+}
+},
+"end": {
+"identity": 431,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "中间代码表示",
+"teach": "Y",
+"state": "2.1"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 406,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "语义分析",
+"state": "2"
+}
+},
+"relationship": {
+"identity": 105,
+"start": 406,
+"end": 431,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 431,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "中间代码表示",
+"teach": "Y",
+"state": "2.1"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 407,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "代码生成",
+"state": "3"
+}
+},
+"end": {
+"identity": 433,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "指令选择",
+"teach": "Y",
+"state": "3.3"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 407,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "代码生成",
+"state": "3"
+}
+},
+"relationship": {
+"identity": 336,
+"start": 407,
+"end": 433,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 433,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "指令选择",
+"teach": "Y",
+"state": "3.3"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 407,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "代码生成",
+"state": "3"
+}
+},
+"end": {
+"identity": 434,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "指令调度",
+"teach": "Y",
+"state": "3.4"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 407,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "代码生成",
+"state": "3"
+}
+},
+"relationship": {
+"identity": 337,
+"start": 407,
+"end": 434,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 434,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "指令调度",
+"teach": "Y",
+"state": "3.4"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 407,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "代码生成",
+"state": "3"
+}
+},
+"end": {
+"identity": 435,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "寄存器分配",
+"teach": "Y",
+"state": "3.5"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 407,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "代码生成",
+"state": "3"
+}
+},
+"relationship": {
+"identity": 338,
+"start": 407,
+"end": 435,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 435,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "寄存器分配",
+"teach": "Y",
+"state": "3.5"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 407,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "代码生成",
+"state": "3"
+}
+},
+"end": {
+"identity": 436,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "优化",
+"teach": "Y",
+"state": "3.6"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 407,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "代码生成",
+"state": "3"
+}
+},
+"relationship": {
+"identity": 141,
+"start": 407,
+"end": 436,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 436,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "优化",
+"teach": "Y",
+"state": "3.6"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 408,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "运行时",
+"state": "4"
+}
+},
+"end": {
+"identity": 437,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "动态编译",
+"teach": "Y",
+"state": "4.3"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 408,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "运行时",
+"state": "4"
+}
+},
+"relationship": {
+"identity": 340,
+"start": 408,
+"end": 437,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 437,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "动态编译",
+"teach": "Y",
+"state": "4.3"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 408,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "运行时",
+"state": "4"
+}
+},
+"end": {
+"identity": 438,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "虚拟机",
+"teach": "N",
+"state": "4.4"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 408,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "运行时",
+"state": "4"
+}
+},
+"relationship": {
+"identity": 342,
+"start": 408,
+"end": 438,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 438,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "虚拟机",
+"teach": "N",
+"state": "4.4"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 409,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "静态分析",
+"state": "5"
+}
+},
+"end": {
+"identity": 439,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "程序表示",
+"teach": "Y",
+"state": "5.1"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 409,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "静态分析",
+"state": "5"
+}
+},
+"relationship": {
+"identity": 142,
+"start": 409,
+"end": 439,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 439,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "程序表示",
+"teach": "Y",
+"state": "5.1"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 409,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "静态分析",
+"state": "5"
+}
+},
+"end": {
+"identity": 440,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "静态分析和程序优化",
+"teach": "Y",
+"state": "5.6"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 409,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "静态分析",
+"state": "5"
+}
+},
+"relationship": {
+"identity": 348,
+"start": 409,
+"end": 440,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 440,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "静态分析和程序优化",
+"teach": "Y",
+"state": "5.6"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 430,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "语法解析",
+"teach": "Y",
+"state": "1.2"
+}
+},
+"end": {
+"identity": 442,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "自顶向下解析",
+"teach": "Y",
+"state": "1.2.2"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 430,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "语法解析",
+"teach": "Y",
+"state": "1.2"
+}
+},
+"relationship": {
+"identity": 357,
+"start": 430,
+"end": 442,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 442,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "自顶向下解析",
+"teach": "Y",
+"state": "1.2.2"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 430,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "语法解析",
+"teach": "Y",
+"state": "1.2"
+}
+},
+"end": {
+"identity": 443,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "自底向上解析",
+"teach": "Y",
+"state": "1.2.3"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 430,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "语法解析",
+"teach": "Y",
+"state": "1.2"
+}
+},
+"relationship": {
+"identity": 358,
+"start": 430,
+"end": 443,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 443,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "自底向上解析",
+"teach": "Y",
+"state": "1.2.3"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 399,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "使用自动语法解析工具",
+"teach": "Y",
+"state": "1.3"
+}
+},
+"end": {
+"identity": 444,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "Flex",
+"teach": "N",
+"state": "1.3.1"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 399,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "使用自动语法解析工具",
+"teach": "Y",
+"state": "1.3"
+}
+},
+"relationship": {
+"identity": 81,
+"start": 399,
+"end": 444,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 444,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "Flex",
+"teach": "N",
+"state": "1.3.1"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 399,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "使用自动语法解析工具",
+"teach": "Y",
+"state": "1.3"
+}
+},
+"end": {
+"identity": 445,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "Bison",
+"teach": "N",
+"state": "1.3.2"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 399,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "使用自动语法解析工具",
+"teach": "Y",
+"state": "1.3"
+}
+},
+"relationship": {
+"identity": 104,
+"start": 399,
+"end": 445,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 445,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "Bison",
+"teach": "N",
+"state": "1.3.2"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 433,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "指令选择",
+"teach": "Y",
+"state": "3.3"
+}
+},
+"end": {
+"identity": 447,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "铺树问题",
+"teach": "N",
+"state": "3.3.2"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 433,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "指令选择",
+"teach": "Y",
+"state": "3.3"
+}
+},
+"relationship": {
+"identity": 362,
+"start": 433,
+"end": 447,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 447,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "铺树问题",
+"teach": "N",
+"state": "3.3.2"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 434,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "指令调度",
+"teach": "Y",
+"state": "3.4"
+}
+},
+"end": {
+"identity": 448,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "调度优化",
+"teach": "Y",
+"state": "3.4.2"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 434,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "指令调度",
+"teach": "Y",
+"state": "3.4"
+}
+},
+"relationship": {
+"identity": 364,
+"start": 434,
+"end": 448,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 448,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "调度优化",
+"teach": "Y",
+"state": "3.4.2"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 408,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "运行时",
+"state": "4"
+}
+},
+"end": {
+"identity": 450,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "动态内存管理",
+"teach": "Y",
+"state": "4.1"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 408,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "运行时",
+"state": "4"
+}
+},
+"relationship": {
+"identity": 339,
+"start": 408,
+"end": 450,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 450,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "动态内存管理",
+"teach": "Y",
+"state": "4.1"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 408,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "运行时",
+"state": "4"
+}
+},
+"end": {
+"identity": 451,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "数据布局",
+"teach": "Y",
+"state": "4.2"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 408,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "运行时",
+"state": "4"
+}
+},
+"relationship": {
+"identity": 341,
+"start": 408,
+"end": 451,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 451,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "数据布局",
+"teach": "Y",
+"state": "4.2"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 409,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "静态分析",
+"state": "5"
+}
+},
+"end": {
+"identity": 452,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "程序分析难题",
+"teach": "N",
+"state": "5.2"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 409,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "静态分析",
+"state": "5"
+}
+},
+"relationship": {
+"identity": 343,
+"start": 409,
+"end": 452,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 452,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "程序分析难题",
+"teach": "N",
+"state": "5.2"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 410,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "高级构件",
+"state": "6"
+}
+},
+"end": {
+"identity": 453,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "OOP抽象",
+"teach": "N",
+"state": "6.3"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 410,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "高级构件",
+"state": "6"
+}
+},
+"relationship": {
+"identity": 353,
+"start": 410,
+"end": 453,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 453,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "OOP抽象",
+"teach": "N",
+"state": "6.3"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 410,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "高级构件",
+"state": "6"
+}
+},
+"end": {
+"identity": 455,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "Module system",
+"teach": "N",
+"state": "6.5"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 410,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "高级构件",
+"state": "6"
+}
+},
+"relationship": {
+"identity": 355,
+"start": 410,
+"end": 455,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 455,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "Module system",
+"teach": "N",
+"state": "6.5"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 410,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "高级构件",
+"state": "6"
+}
+},
+"end": {
+"identity": 456,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "Dynamic code evaluation",
+"teach": "N",
+"state": "6.6"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 410,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "高级构件",
+"state": "6"
+}
+},
+"relationship": {
+"identity": 326,
+"start": 410,
+"end": 456,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 456,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "Dynamic code evaluation",
+"teach": "N",
+"state": "6.6"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 430,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "语法解析",
+"teach": "Y",
+"state": "1.2"
+}
+},
+"end": {
+"identity": 457,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "上下文无关语言",
+"teach": "Y",
+"state": "1.2.1"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 430,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "语法解析",
+"teach": "Y",
+"state": "1.2"
+}
+},
+"relationship": {
+"identity": 356,
+"start": 430,
+"end": 457,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 457,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "上下文无关语言",
+"teach": "Y",
+"state": "1.2.1"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 431,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "中间代码表示",
+"teach": "Y",
+"state": "2.1"
+}
+},
+"end": {
+"identity": 458,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "线性IR",
+"teach": "N",
+"state": "2.2.2"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 431,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "中间代码表示",
+"teach": "Y",
+"state": "2.1"
+}
+},
+"relationship": {
+"identity": 359,
+"start": 431,
+"end": 458,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 458,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "线性IR",
+"teach": "N",
+"state": "2.2.2"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 510,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "函数调用",
+"teach": "Y",
+"state": "3.1"
+}
+},
+"end": {
+"identity": 459,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "调用规约",
+"teach": "Y",
+"state": "3.1.1"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 510,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "函数调用",
+"teach": "Y",
+"state": "3.1"
+}
+},
+"relationship": {
+"identity": 360,
+"start": 510,
+"end": 459,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 459,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "调用规约",
+"teach": "Y",
+"state": "3.1.1"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 510,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "函数调用",
+"teach": "Y",
+"state": "3.1"
+}
+},
+"end": {
+"identity": 460,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "方法派发",
+"teach": "Y",
+"state": "3.1.2"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 510,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "函数调用",
+"teach": "Y",
+"state": "3.1"
+}
+},
+"relationship": {
+"identity": 107,
+"start": 510,
+"end": 460,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 460,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "方法派发",
+"teach": "Y",
+"state": "3.1.2"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 433,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "指令选择",
+"teach": "Y",
+"state": "3.3"
+}
+},
+"end": {
+"identity": 461,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "表达式树和DAG",
+"teach": "N",
+"state": "3.3.1"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 433,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "指令选择",
+"teach": "Y",
+"state": "3.3"
+}
+},
+"relationship": {
+"identity": 361,
+"start": 433,
+"end": 461,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 461,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "表达式树和DAG",
+"teach": "N",
+"state": "3.3.1"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 434,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "指令调度",
+"teach": "Y",
+"state": "3.4"
+}
+},
+"end": {
+"identity": 462,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "指令依赖关系",
+"teach": "Y",
+"state": "3.4.1"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 434,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "指令调度",
+"teach": "Y",
+"state": "3.4"
+}
+},
+"relationship": {
+"identity": 363,
+"start": 434,
+"end": 462,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 462,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "指令依赖关系",
+"teach": "Y",
+"state": "3.4.1"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 435,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "寄存器分配",
+"teach": "Y",
+"state": "3.5"
+}
+},
+"end": {
+"identity": 463,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "活跃性分析",
+"teach": "Y",
+"state": "3.5.1"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 435,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "寄存器分配",
+"teach": "Y",
+"state": "3.5"
+}
+},
+"relationship": {
+"identity": 118,
+"start": 435,
+"end": 463,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 463,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "活跃性分析",
+"teach": "Y",
+"state": "3.5.1"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 435,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "寄存器分配",
+"teach": "Y",
+"state": "3.5"
+}
+},
+"end": {
+"identity": 464,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "寄存器分配算法",
+"teach": "Y",
+"state": "3.5.2"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 435,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "寄存器分配",
+"teach": "Y",
+"state": "3.5"
+}
+},
+"relationship": {
+"identity": 119,
+"start": 435,
+"end": 464,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 464,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "寄存器分配算法",
+"teach": "Y",
+"state": "3.5.2"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 436,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "优化",
+"teach": "Y",
+"state": "3.6"
+}
+},
+"end": {
+"identity": 465,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "窥孔优化",
+"teach": "Y",
+"state": "3.6.1"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 436,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "优化",
+"teach": "Y",
+"state": "3.6"
+}
+},
+"relationship": {
+"identity": 365,
+"start": 436,
+"end": 465,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 465,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "窥孔优化",
+"teach": "Y",
+"state": "3.6.1"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 436,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "优化",
+"teach": "Y",
+"state": "3.6"
+}
+},
+"end": {
+"identity": 466,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "循环优化",
+"teach": "Y",
+"state": "3.6.2"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 436,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "优化",
+"teach": "Y",
+"state": "3.6"
+}
+},
+"relationship": {
+"identity": 350,
+"start": 436,
+"end": 466,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 466,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "循环优化",
+"teach": "Y",
+"state": "3.6.2"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 450,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "动态内存管理",
+"teach": "Y",
+"state": "4.1"
+}
+},
+"end": {
+"identity": 467,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "内存分配和回收",
+"teach": "Y",
+"state": "4.1.1"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 450,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "动态内存管理",
+"teach": "Y",
+"state": "4.1"
+}
+},
+"relationship": {
+"identity": 367,
+"start": 450,
+"end": 467,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 467,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "内存分配和回收",
+"teach": "Y",
+"state": "4.1.1"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 450,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "动态内存管理",
+"teach": "Y",
+"state": "4.1"
+}
+},
+"end": {
+"identity": 468,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "垃圾回收",
+"teach": "Y",
+"state": "4.1.2"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 450,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "动态内存管理",
+"teach": "Y",
+"state": "4.1"
+}
+},
+"relationship": {
+"identity": 145,
+"start": 450,
+"end": 468,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 468,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "垃圾回收",
+"teach": "Y",
+"state": "4.1.2"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 450,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "动态内存管理",
+"teach": "Y",
+"state": "4.1"
+}
+},
+"end": {
+"identity": 469,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "内存区域（arena）",
+"teach": "N",
+"state": "4.1.4"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 450,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "动态内存管理",
+"teach": "Y",
+"state": "4.1"
+}
+},
+"relationship": {
+"identity": 369,
+"start": 450,
+"end": 469,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 469,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "内存区域（arena）",
+"teach": "N",
+"state": "4.1.4"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 437,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "动态编译",
+"teach": "Y",
+"state": "4.3"
+}
+},
+"end": {
+"identity": 470,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "JIT编译",
+"teach": "Y",
+"state": "4.3.1"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 437,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "动态编译",
+"teach": "Y",
+"state": "4.3"
+}
+},
+"relationship": {
+"identity": 344,
+"start": 437,
+"end": 470,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 470,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "JIT编译",
+"teach": "Y",
+"state": "4.3.1"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 438,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "虚拟机",
+"teach": "N",
+"state": "4.4"
+}
+},
+"end": {
+"identity": 471,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "加载",
+"teach": "N",
+"state": "4.4.1"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 438,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "虚拟机",
+"teach": "N",
+"state": "4.4"
+}
+},
+"relationship": {
+"identity": 371,
+"start": 438,
+"end": 471,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 471,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "加载",
+"teach": "N",
+"state": "4.4.1"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 438,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "虚拟机",
+"teach": "N",
+"state": "4.4"
+}
+},
+"end": {
+"identity": 472,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "线程",
+"teach": "N",
+"state": "4.4.2"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 438,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "虚拟机",
+"teach": "N",
+"state": "4.4"
+}
+},
+"relationship": {
+"identity": 372,
+"start": 438,
+"end": 472,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 472,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "线程",
+"teach": "N",
+"state": "4.4.2"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 438,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "虚拟机",
+"teach": "N",
+"state": "4.4"
+}
+},
+"end": {
+"identity": 473,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "安全",
+"teach": "N",
+"state": "4.4.3"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 438,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "虚拟机",
+"teach": "N",
+"state": "4.4"
+}
+},
+"relationship": {
+"identity": 385,
+"start": 438,
+"end": 473,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 473,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "安全",
+"teach": "N",
+"state": "4.4.3"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 439,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "程序表示",
+"teach": "Y",
+"state": "5.1"
+}
+},
+"end": {
+"identity": 474,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "代码块和控制流图",
+"teach": "Y",
+"state": "5.1.1"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 439,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "程序表示",
+"teach": "Y",
+"state": "5.1"
+}
+},
+"relationship": {
+"identity": 386,
+"start": 439,
+"end": 474,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 474,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "代码块和控制流图",
+"teach": "Y",
+"state": "5.1.1"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 439,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "程序表示",
+"teach": "Y",
+"state": "5.1"
+}
+},
+"end": {
+"identity": 475,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "def-use链",
+"teach": "Y",
+"state": "5.1.2"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 439,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "程序表示",
+"teach": "Y",
+"state": "5.1"
+}
+},
+"relationship": {
+"identity": 373,
+"start": 439,
+"end": 475,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 475,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "def-use链",
+"teach": "Y",
+"state": "5.1.2"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 439,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "程序表示",
+"teach": "Y",
+"state": "5.1"
+}
+},
+"end": {
+"identity": 476,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "静态单赋值",
+"teach": "Y",
+"state": "5.1.3"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 439,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "程序表示",
+"teach": "Y",
+"state": "5.1"
+}
+},
+"relationship": {
+"identity": 387,
+"start": 439,
+"end": 476,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 476,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "静态单赋值",
+"teach": "Y",
+"state": "5.1.3"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 415,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "流敏感的分析",
+"teach": "Y",
+"state": "5.4"
+}
+},
+"end": {
+"identity": 477,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "前向分析",
+"teach": "Y",
+"state": "5.4.1"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 415,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "流敏感的分析",
+"teach": "Y",
+"state": "5.4"
+}
+},
+"relationship": {
+"identity": 375,
+"start": 415,
+"end": 477,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 477,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "前向分析",
+"teach": "Y",
+"state": "5.4.1"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 415,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "流敏感的分析",
+"teach": "Y",
+"state": "5.4"
+}
+},
+"end": {
+"identity": 478,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "后向分析",
+"teach": "Y",
+"state": "5.4.2"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 415,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "流敏感的分析",
+"teach": "Y",
+"state": "5.4"
+}
+},
+"relationship": {
+"identity": 388,
+"start": 415,
+"end": 478,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 478,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "后向分析",
+"teach": "Y",
+"state": "5.4.2"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 416,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "路径敏感分析",
+"teach": "N",
+"state": "5.5"
+}
+},
+"end": {
+"identity": 479,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "Model Checking",
+"teach": "N",
+"state": "5.5.1"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 416,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "路径敏感分析",
+"teach": "N",
+"state": "5.5"
+}
+},
+"relationship": {
+"identity": 376,
+"start": 416,
+"end": 479,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 479,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "Model Checking",
+"teach": "N",
+"state": "5.5.1"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 418,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "控制抽象",
+"teach": "N",
+"state": "6.2"
+}
+},
+"end": {
+"identity": 480,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "Continuations",
+"teach": "N",
+"state": "6.2.1"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 418,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "控制抽象",
+"teach": "N",
+"state": "6.2"
+}
+},
+"relationship": {
+"identity": 389,
+"start": 418,
+"end": 480,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 480,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "Continuations",
+"teach": "N",
+"state": "6.2.1"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 418,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "控制抽象",
+"teach": "N",
+"state": "6.2"
+}
+},
+"end": {
+"identity": 481,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "异常处理",
+"teach": "N",
+"state": "6.2.2"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 418,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "控制抽象",
+"teach": "N",
+"state": "6.2"
+}
+},
+"relationship": {
+"identity": 377,
+"start": 418,
+"end": 481,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 481,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "异常处理",
+"teach": "N",
+"state": "6.2.2"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 418,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "控制抽象",
+"teach": "N",
+"state": "6.2"
+}
+},
+"end": {
+"identity": 482,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "monads",
+"teach": "N",
+"state": "6.2.3"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 418,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "控制抽象",
+"teach": "N",
+"state": "6.2"
+}
+},
+"relationship": {
+"identity": 378,
+"start": 418,
+"end": 482,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 482,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "monads",
+"teach": "N",
+"state": "6.2.3"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 453,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "OOP抽象",
+"teach": "N",
+"state": "6.3"
+}
+},
+"end": {
+"identity": 483,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "多重继承",
+"teach": "N",
+"state": "6.3.1"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 453,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "OOP抽象",
+"teach": "N",
+"state": "6.3"
+}
+},
+"relationship": {
+"identity": 390,
+"start": 453,
+"end": 483,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 483,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "多重继承",
+"teach": "N",
+"state": "6.3.1"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 453,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "OOP抽象",
+"teach": "N",
+"state": "6.3"
+}
+},
+"end": {
+"identity": 484,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "Traits",
+"teach": "N",
+"state": "6.3.3"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 453,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "OOP抽象",
+"teach": "N",
+"state": "6.3"
+}
+},
+"relationship": {
+"identity": 392,
+"start": 453,
+"end": 484,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 484,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "Traits",
+"teach": "N",
+"state": "6.3.3"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 457,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "上下文无关语言",
+"teach": "Y",
+"state": "1.2.1"
+}
+},
+"end": {
+"identity": 485,
+"labels": [
+"subbranch"
+],
+"properties": {
+"name": "二义性",
+"teach": "Y",
+"state": "1.2.1.1"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 457,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "上下文无关语言",
+"teach": "Y",
+"state": "1.2.1"
+}
+},
+"relationship": {
+"identity": 381,
+"start": 457,
+"end": 485,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 485,
+"labels": [
+"subbranch"
+],
+"properties": {
+"name": "二义性",
+"teach": "Y",
+"state": "1.2.1.1"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 457,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "上下文无关语言",
+"teach": "Y",
+"state": "1.2.1"
+}
+},
+"end": {
+"identity": 505,
+"labels": [
+"subbranch"
+],
+"properties": {
+"name": "优先级",
+"teach": "Y",
+"state": "1.2.1.3"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 457,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "上下文无关语言",
+"teach": "Y",
+"state": "1.2.1"
+}
+},
+"relationship": {
+"identity": 395,
+"start": 457,
+"end": 505,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 505,
+"labels": [
+"subbranch"
+],
+"properties": {
+"name": "优先级",
+"teach": "Y",
+"state": "1.2.1.3"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 443,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "自底向上解析",
+"teach": "Y",
+"state": "1.2.3"
+}
+},
+"end": {
+"identity": 506,
+"labels": [
+"subbranch"
+],
+"properties": {
+"name": "回溯（backtracking）",
+"teach": "N",
+"state": "1.2.3.1"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 443,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "自底向上解析",
+"teach": "Y",
+"state": "1.2.3"
+}
+},
+"relationship": {
+"identity": 396,
+"start": 443,
+"end": 506,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 506,
+"labels": [
+"subbranch"
+],
+"properties": {
+"name": "回溯（backtracking）",
+"teach": "N",
+"state": "1.2.3.1"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 464,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "寄存器分配算法",
+"teach": "Y",
+"state": "3.5.2"
+}
+},
+"end": {
+"identity": 507,
+"labels": [
+"subbranch"
+],
+"properties": {
+"name": "线性扫描算法",
+"teach": "N",
+"state": "3.5.1.1"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 464,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "寄存器分配算法",
+"teach": "Y",
+"state": "3.5.2"
+}
+},
+"relationship": {
+"identity": 405,
+"start": 464,
+"end": 507,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 507,
+"labels": [
+"subbranch"
+],
+"properties": {
+"name": "线性扫描算法",
+"teach": "N",
+"state": "3.5.1.1"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 464,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "寄存器分配算法",
+"teach": "Y",
+"state": "3.5.2"
+}
+},
+"end": {
+"identity": 508,
+"labels": [
+"subbranch"
+],
+"properties": {
+"name": "着色问题",
+"teach": "N",
+"state": "3.5.1.2"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 464,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "寄存器分配算法",
+"teach": "Y",
+"state": "3.5.2"
+}
+},
+"relationship": {
+"identity": 406,
+"start": 464,
+"end": 508,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 508,
+"labels": [
+"subbranch"
+],
+"properties": {
+"name": "着色问题",
+"teach": "N",
+"state": "3.5.1.2"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 464,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "寄存器分配算法",
+"teach": "Y",
+"state": "3.5.2"
+}
+},
+"end": {
+"identity": 509,
+"labels": [
+"subbranch"
+],
+"properties": {
+"name": "Chaitin算法",
+"teach": "N",
+"state": "3.5.1.3"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 464,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "寄存器分配算法",
+"teach": "Y",
+"state": "3.5.2"
+}
+},
+"relationship": {
+"identity": 407,
+"start": 464,
+"end": 509,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 509,
+"labels": [
+"subbranch"
+],
+"properties": {
+"name": "Chaitin算法",
+"teach": "N",
+"state": "3.5.1.3"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 407,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "代码生成",
+"state": "3"
+}
+},
+"end": {
+"identity": 510,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "函数调用",
+"teach": "Y",
+"state": "3.1"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 407,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "代码生成",
+"state": "3"
+}
+},
+"relationship": {
+"identity": 335,
+"start": 407,
+"end": 510,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 510,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "函数调用",
+"teach": "Y",
+"state": "3.1"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 436,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "优化",
+"teach": "Y",
+"state": "3.6"
+}
+},
+"end": {
+"identity": 511,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "尾递归",
+"teach": "Y",
+"state": "3.6.3"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 436,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "优化",
+"teach": "Y",
+"state": "3.6"
+}
+},
+"relationship": {
+"identity": 366,
+"start": 436,
+"end": 511,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 511,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "尾递归",
+"teach": "Y",
+"state": "3.6.3"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 443,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "自底向上解析",
+"teach": "Y",
+"state": "1.2.3"
+}
+},
+"end": {
+"identity": 525,
+"labels": [
+"subbranch"
+],
+"properties": {
+"name": "LR",
+"teach": "N",
+"state": "1.2.3.2"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 443,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "自底向上解析",
+"teach": "Y",
+"state": "1.2.3"
+}
+},
+"relationship": {
+"identity": 397,
+"start": 443,
+"end": 525,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 525,
+"labels": [
+"subbranch"
+],
+"properties": {
+"name": "LR",
+"teach": "N",
+"state": "1.2.3.2"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 409,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "静态分析",
+"state": "5"
+}
+},
+"end": {
+"identity": 527,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "静态分析和Bug检查",
+"teach": "N",
+"state": "5.7"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 409,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "静态分析",
+"state": "5"
+}
+},
+"relationship": {
+"identity": 349,
+"start": 409,
+"end": 527,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 527,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "静态分析和Bug检查",
+"teach": "N",
+"state": "5.7"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 410,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "高级构件",
+"state": "6"
+}
+},
+"end": {
+"identity": 528,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "Lazy Evaluation and Inifinite Streams",
+"teach": "N",
+"state": "6.1"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 410,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "高级构件",
+"state": "6"
+}
+},
+"relationship": {
+"identity": 351,
+"start": 410,
+"end": 528,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 528,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "Lazy Evaluation and Inifinite Streams",
+"teach": "N",
+"state": "6.1"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 410,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "高级构件",
+"state": "6"
+}
+},
+"end": {
+"identity": 529,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "Metaprogramming",
+"teach": "N",
+"state": "6.4"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 410,
+"labels": [
+"chapter"
+],
+"properties": {
+"name": "高级构件",
+"state": "6"
+}
+},
+"relationship": {
+"identity": 354,
+"start": 410,
+"end": 529,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 529,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "Metaprogramming",
+"teach": "N",
+"state": "6.4"
+}
+}
+}
+],
+"length": 1.0
+}
+},
+{
+"p": {
+"start": {
+"identity": 431,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "中间代码表示",
+"teach": "Y",
+"state": "2.1"
+}
+},
+"end": {
+"identity": 530,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "虚拟语法树",
+"teach": "Y",
+"state": "2.2.1"
+}
+},
+"segments": [
+{
+"start": {
+"identity": 431,
+"labels": [
+"subsection"
+],
+"properties": {
+"name": "中间代码表示",
+"teach": "Y",
+"state": "2.1"
+}
+},
+"relationship": {
+"identity": 106,
+"start": 431,
+"end": 530,
+"type": "contain",
+"properties": {
+
+}
+},
+"end": {
+"identity": 530,
+"labels": [
+"branch"
+],
+"properties": {
+"name": "虚拟语法树",
+"teach": "Y",
+"state": "2.2.1"
+}
+}
+}
+],
+"length": 1.0
+}
+}
+]

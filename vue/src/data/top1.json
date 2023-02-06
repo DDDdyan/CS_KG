@@ -1,0 +1,1011 @@
+[
+  {
+    "p": {
+      "start": {
+        "identity": 224,
+        "labels": [
+          "subject"
+        ],
+        "properties": {
+          "name": "Memory Safety and Programming Language Design"
+        }
+      },
+      "end": {
+        "identity": 275,
+        "labels": [
+          "chapter"
+        ],
+        "properties": {
+          "name": "Code Search and Recommendation",
+          "state": "No.17"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 224,
+            "labels": [
+              "subject"
+            ],
+            "properties": {
+              "name": "Memory Safety and Programming Language Design"
+            }
+          },
+          "relationship": {
+            "identity": 154,
+            "start": 224,
+            "end": 275,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 275,
+            "labels": [
+              "chapter"
+            ],
+            "properties": {
+              "name": "Code Search and Recommendation",
+              "state": "No.17"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 224,
+        "labels": [
+          "subject"
+        ],
+        "properties": {
+          "name": "Memory Safety and Programming Language Design"
+        }
+      },
+      "end": {
+        "identity": 234,
+        "labels": [
+          "chapter"
+        ],
+        "properties": {
+          "name": "Isolation of Unsafe Code",
+          "state": "No.16"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 224,
+            "labels": [
+              "subject"
+            ],
+            "properties": {
+              "name": "Memory Safety and Programming Language Design"
+            }
+          },
+          "relationship": {
+            "identity": 179,
+            "start": 224,
+            "end": 234,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 234,
+            "labels": [
+              "chapter"
+            ],
+            "properties": {
+              "name": "Isolation of Unsafe Code",
+              "state": "No.16"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 224,
+        "labels": [
+          "subject"
+        ],
+        "properties": {
+          "name": "Memory Safety and Programming Language Design"
+        }
+      },
+      "end": {
+        "identity": 274,
+        "labels": [
+          "chapter"
+        ],
+        "properties": {
+          "name": "Symbolic Execution",
+          "state": "No.15"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 224,
+            "labels": [
+              "subject"
+            ],
+            "properties": {
+              "name": "Memory Safety and Programming Language Design"
+            }
+          },
+          "relationship": {
+            "identity": 153,
+            "start": 224,
+            "end": 274,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 274,
+            "labels": [
+              "chapter"
+            ],
+            "properties": {
+              "name": "Symbolic Execution",
+              "state": "No.15"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 224,
+        "labels": [
+          "subject"
+        ],
+        "properties": {
+          "name": "Memory Safety and Programming Language Design"
+        }
+      },
+      "end": {
+        "identity": 273,
+        "labels": [
+          "chapter"
+        ],
+        "properties": {
+          "name": "Static Program Analysis",
+          "state": "No.14"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 224,
+            "labels": [
+              "subject"
+            ],
+            "properties": {
+              "name": "Memory Safety and Programming Language Design"
+            }
+          },
+          "relationship": {
+            "identity": 178,
+            "start": 224,
+            "end": 273,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 273,
+            "labels": [
+              "chapter"
+            ],
+            "properties": {
+              "name": "Static Program Analysis",
+              "state": "No.14"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 224,
+        "labels": [
+          "subject"
+        ],
+        "properties": {
+          "name": "Memory Safety and Programming Language Design"
+        }
+      },
+      "end": {
+        "identity": 233,
+        "labels": [
+          "chapter"
+        ],
+        "properties": {
+          "name": "Address Sanitizer",
+          "state": "No.13"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 224,
+            "labels": [
+              "subject"
+            ],
+            "properties": {
+              "name": "Memory Safety and Programming Language Design"
+            }
+          },
+          "relationship": {
+            "identity": 177,
+            "start": 224,
+            "end": 233,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 233,
+            "labels": [
+              "chapter"
+            ],
+            "properties": {
+              "name": "Address Sanitizer",
+              "state": "No.13"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 224,
+        "labels": [
+          "subject"
+        ],
+        "properties": {
+          "name": "Memory Safety and Programming Language Design"
+        }
+      },
+      "end": {
+        "identity": 232,
+        "labels": [
+          "chapter"
+        ],
+        "properties": {
+          "name": "Testing and Fuzzing",
+          "state": "No.12"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 224,
+            "labels": [
+              "subject"
+            ],
+            "properties": {
+              "name": "Memory Safety and Programming Language Design"
+            }
+          },
+          "relationship": {
+            "identity": 152,
+            "start": 224,
+            "end": 232,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 232,
+            "labels": [
+              "chapter"
+            ],
+            "properties": {
+              "name": "Testing and Fuzzing",
+              "state": "No.12"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 224,
+        "labels": [
+          "subject"
+        ],
+        "properties": {
+          "name": "Memory Safety and Programming Language Design"
+        }
+      },
+      "end": {
+        "identity": 272,
+        "labels": [
+          "chapter"
+        ],
+        "properties": {
+          "name": "Effectiveness of Rust",
+          "state": "No.11"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 224,
+            "labels": [
+              "subject"
+            ],
+            "properties": {
+              "name": "Memory Safety and Programming Language Design"
+            }
+          },
+          "relationship": {
+            "identity": 151,
+            "start": 224,
+            "end": 272,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 272,
+            "labels": [
+              "chapter"
+            ],
+            "properties": {
+              "name": "Effectiveness of Rust",
+              "state": "No.11"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 224,
+        "labels": [
+          "subject"
+        ],
+        "properties": {
+          "name": "Memory Safety and Programming Language Design"
+        }
+      },
+      "end": {
+        "identity": 231,
+        "labels": [
+          "chapter"
+        ],
+        "properties": {
+          "name": "Rust Compiler Techniques",
+          "state": "No.10"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 224,
+            "labels": [
+              "subject"
+            ],
+            "properties": {
+              "name": "Memory Safety and Programming Language Design"
+            }
+          },
+          "relationship": {
+            "identity": 176,
+            "start": 224,
+            "end": 231,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 231,
+            "labels": [
+              "chapter"
+            ],
+            "properties": {
+              "name": "Rust Compiler Techniques",
+              "state": "No.10"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 224,
+        "labels": [
+          "subject"
+        ],
+        "properties": {
+          "name": "Memory Safety and Programming Language Design"
+        }
+      },
+      "end": {
+        "identity": 230,
+        "labels": [
+          "chapter"
+        ],
+        "properties": {
+          "name": "Rust Compiler Theory",
+          "state": "No.9"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 224,
+            "labels": [
+              "subject"
+            ],
+            "properties": {
+              "name": "Memory Safety and Programming Language Design"
+            }
+          },
+          "relationship": {
+            "identity": 191,
+            "start": 224,
+            "end": 230,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 230,
+            "labels": [
+              "chapter"
+            ],
+            "properties": {
+              "name": "Rust Compiler Theory",
+              "state": "No.9"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 224,
+        "labels": [
+          "subject"
+        ],
+        "properties": {
+          "name": "Memory Safety and Programming Language Design"
+        }
+      },
+      "end": {
+        "identity": 229,
+        "labels": [
+          "chapter"
+        ],
+        "properties": {
+          "name": "Rust Concurrency Programming",
+          "state": "No.8"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 224,
+            "labels": [
+              "subject"
+            ],
+            "properties": {
+              "name": "Memory Safety and Programming Language Design"
+            }
+          },
+          "relationship": {
+            "identity": 190,
+            "start": 224,
+            "end": 229,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 229,
+            "labels": [
+              "chapter"
+            ],
+            "properties": {
+              "name": "Rust Concurrency Programming",
+              "state": "No.8"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 224,
+        "labels": [
+          "subject"
+        ],
+        "properties": {
+          "name": "Memory Safety and Programming Language Design"
+        }
+      },
+      "end": {
+        "identity": 307,
+        "labels": [
+          "chapter"
+        ],
+        "properties": {
+          "name": "Rust Generics and Traits",
+          "state": "No.7"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 224,
+            "labels": [
+              "subject"
+            ],
+            "properties": {
+              "name": "Memory Safety and Programming Language Design"
+            }
+          },
+          "relationship": {
+            "identity": 175,
+            "start": 224,
+            "end": 307,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 307,
+            "labels": [
+              "chapter"
+            ],
+            "properties": {
+              "name": "Rust Generics and Traits",
+              "state": "No.7"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 224,
+        "labels": [
+          "subject"
+        ],
+        "properties": {
+          "name": "Memory Safety and Programming Language Design"
+        }
+      },
+      "end": {
+        "identity": 306,
+        "labels": [
+          "chapter"
+        ],
+        "properties": {
+          "name": "Rust Ownership-based Memory Management",
+          "state": "No.6"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 224,
+            "labels": [
+              "subject"
+            ],
+            "properties": {
+              "name": "Memory Safety and Programming Language Design"
+            }
+          },
+          "relationship": {
+            "identity": 174,
+            "start": 224,
+            "end": 306,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 306,
+            "labels": [
+              "chapter"
+            ],
+            "properties": {
+              "name": "Rust Ownership-based Memory Management",
+              "state": "No.6"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 224,
+        "labels": [
+          "subject"
+        ],
+        "properties": {
+          "name": "Memory Safety and Programming Language Design"
+        }
+      },
+      "end": {
+        "identity": 228,
+        "labels": [
+          "chapter"
+        ],
+        "properties": {
+          "name": "Concurrent Memory Access",
+          "state": "No.5"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 224,
+            "labels": [
+              "subject"
+            ],
+            "properties": {
+              "name": "Memory Safety and Programming Language Design"
+            }
+          },
+          "relationship": {
+            "identity": 189,
+            "start": 224,
+            "end": 228,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 228,
+            "labels": [
+              "chapter"
+            ],
+            "properties": {
+              "name": "Concurrent Memory Access",
+              "state": "No.5"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 224,
+        "labels": [
+          "subject"
+        ],
+        "properties": {
+          "name": "Memory Safety and Programming Language Design"
+        }
+      },
+      "end": {
+        "identity": 271,
+        "labels": [
+          "chapter"
+        ],
+        "properties": {
+          "name": "Dangling Pointers",
+          "state": "No.3+1.7"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 224,
+            "labels": [
+              "subject"
+            ],
+            "properties": {
+              "name": "Memory Safety and Programming Language Design"
+            }
+          },
+          "relationship": {
+            "identity": 173,
+            "start": 224,
+            "end": 271,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 271,
+            "labels": [
+              "chapter"
+            ],
+            "properties": {
+              "name": "Dangling Pointers",
+              "state": "No.3+1.7"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 224,
+        "labels": [
+          "subject"
+        ],
+        "properties": {
+          "name": "Memory Safety and Programming Language Design"
+        }
+      },
+      "end": {
+        "identity": 227,
+        "labels": [
+          "chapter"
+        ],
+        "properties": {
+          "name": "Memory Exhaustion",
+          "state": "No.4"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 224,
+            "labels": [
+              "subject"
+            ],
+            "properties": {
+              "name": "Memory Safety and Programming Language Design"
+            }
+          },
+          "relationship": {
+            "identity": 171,
+            "start": 224,
+            "end": 227,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 227,
+            "labels": [
+              "chapter"
+            ],
+            "properties": {
+              "name": "Memory Exhaustion",
+              "state": "No.4"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 224,
+        "labels": [
+          "subject"
+        ],
+        "properties": {
+          "name": "Memory Safety and Programming Language Design"
+        }
+      },
+      "end": {
+        "identity": 305,
+        "labels": [
+          "chapter"
+        ],
+        "properties": {
+          "name": "Memory Allocator",
+          "state": "No.2"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 224,
+            "labels": [
+              "subject"
+            ],
+            "properties": {
+              "name": "Memory Safety and Programming Language Design"
+            }
+          },
+          "relationship": {
+            "identity": 188,
+            "start": 224,
+            "end": 305,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 305,
+            "labels": [
+              "chapter"
+            ],
+            "properties": {
+              "name": "Memory Allocator",
+              "state": "No.2"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 224,
+        "labels": [
+          "subject"
+        ],
+        "properties": {
+          "name": "Memory Safety and Programming Language Design"
+        }
+      },
+      "end": {
+        "identity": 226,
+        "labels": [
+          "chapter"
+        ],
+        "properties": {
+          "name": "Buffer Overflow",
+          "state": "No.1+1.6"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 224,
+            "labels": [
+              "subject"
+            ],
+            "properties": {
+              "name": "Memory Safety and Programming Language Design"
+            }
+          },
+          "relationship": {
+            "identity": 170,
+            "start": 224,
+            "end": 226,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 226,
+            "labels": [
+              "chapter"
+            ],
+            "properties": {
+              "name": "Buffer Overflow",
+              "state": "No.1+1.6"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 224,
+        "labels": [
+          "subject"
+        ],
+        "properties": {
+          "name": "Memory Safety and Programming Language Design"
+        }
+      },
+      "end": {
+        "identity": 244,
+        "labels": [
+          "chapter"
+        ],
+        "properties": {
+          "name": "Introduction",
+          "state": "No.1"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 224,
+            "labels": [
+              "subject"
+            ],
+            "properties": {
+              "name": "Memory Safety and Programming Language Design"
+            }
+          },
+          "relationship": {
+            "identity": 146,
+            "start": 224,
+            "end": 244,
+            "type": "contain",
+            "properties": {
+
+            }
+          },
+          "end": {
+            "identity": 244,
+            "labels": [
+              "chapter"
+            ],
+            "properties": {
+              "name": "Introduction",
+              "state": "No.1"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  }
+]
+
